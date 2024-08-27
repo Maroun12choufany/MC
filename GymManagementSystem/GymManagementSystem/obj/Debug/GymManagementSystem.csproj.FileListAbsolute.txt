@@ -1,0 +1,15 @@
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.HomePage.resources
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.LoginForm.resources
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.UCMembers.resources
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.UCClasses.resources
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.bmiCr.resources
+C:\Users\sp\source\repos\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.UCBdmi.resources
