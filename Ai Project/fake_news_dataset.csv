@@ -1,0 +1,1001 @@
+title,text,source,author,likes,shares,comments,label,timestamp
+Title 0,Text content 0,Fox,Author B,795,499,175,Fake,1/1/2023 0:00
+Title 1,Text content 1,FakeNews,Unknown,964,225,127,Real,1/1/2023 1:00
+Title 2,Text content 2,CNN,Author A,972,141,149,Fake,1/1/2023 2:00
+Title 3,Text content 3,Fox,Author A,592,291,16,Fake,1/1/2023 3:00
+Title 4,Text content 4,Fox,Author A,113,480,68,Real,1/1/2023 4:00
+Title 5,Text content 5,FakeNews,Author A,39,150,107,Fake,1/1/2023 5:00
+Title 6,Text content 6,CNN,Author A,300,113,138,Real,1/1/2023 6:00
+Title 7,Text content 7,CNN,Author A,223,236,93,Real,1/1/2023 7:00
+Title 8,Text content 8,Fox,Author A,317,65,14,Real,1/1/2023 8:00
+Title 9,Text content 9,BBC,Author B,348,360,90,Fake,1/1/2023 9:00
+Title 10,Text content 10,Fox,Unknown,114,340,162,Real,1/1/2023 10:00
+Title 11,Text content 11,Fox,Author A,697,257,32,Real,1/1/2023 11:00
+Title 12,Text content 12,Fox,Author B,322,474,124,Real,1/1/2023 12:00
+Title 13,Text content 13,Fox,Author B,567,248,15,Fake,1/1/2023 13:00
+Title 14,Text content 14,FakeNews,Unknown,39,456,161,Fake,1/1/2023 14:00
+Title 15,Text content 15,CNN,Author A,865,448,65,Fake,1/1/2023 15:00
+Title 16,Text content 16,FakeNews,Unknown,39,330,167,Fake,1/1/2023 16:00
+Title 17,Text content 17,FakeNews,Author A,858,322,155,Fake,1/1/2023 17:00
+Title 18,Text content 18,FakeNews,Author B,972,179,46,Fake,1/1/2023 18:00
+Title 19,Text content 19,Fox,Author B,748,189,166,Fake,1/1/2023 19:00
+Title 20,Text content 20,BBC,Author B,288,406,197,Real,1/1/2023 20:00
+Title 21,Text content 21,CNN,Author B,261,153,147,Real,1/1/2023 21:00
+Title 22,Text content 22,BBC,Unknown,215,195,123,Real,1/1/2023 22:00
+Title 23,Text content 23,FakeNews,Author A,146,465,0,Real,1/1/2023 23:00
+Title 24,Text content 24,FakeNews,Author A,335,310,199,Fake,1/2/2023 0:00
+Title 25,Text content 25,BBC,Unknown,167,261,86,Real,1/2/2023 1:00
+Title 26,Text content 26,BBC,Author A,91,418,127,Real,1/2/2023 2:00
+Title 27,Text content 27,BBC,Author B,352,405,190,Real,1/2/2023 3:00
+Title 28,Text content 28,FakeNews,Author A,570,426,66,Real,1/2/2023 4:00
+Title 29,Text content 29,FakeNews,Author B,570,142,3,Fake,1/2/2023 5:00
+Title 30,Text content 30,CNN,Unknown,815,341,185,Fake,1/2/2023 6:00
+Title 31,Text content 31,CNN,Author A,680,315,152,Fake,1/2/2023 7:00
+Title 32,Text content 32,FakeNews,Unknown,780,100,46,Real,1/2/2023 8:00
+Title 33,Text content 33,BBC,Author A,362,243,37,Fake,1/2/2023 9:00
+Title 34,Text content 34,BBC,Author B,556,489,142,Real,1/2/2023 10:00
+Title 35,Text content 35,CNN,Unknown,344,11,190,Fake,1/2/2023 11:00
+Title 36,Text content 36,FakeNews,Author A,692,238,20,Fake,1/2/2023 12:00
+Title 37,Text content 37,CNN,Author B,169,48,56,Fake,1/2/2023 13:00
+Title 38,Text content 38,CNN,Unknown,355,41,116,Fake,1/2/2023 14:00
+Title 39,Text content 39,Fox,Unknown,190,165,180,Fake,1/2/2023 15:00
+Title 40,Text content 40,Fox,Author A,666,81,45,Real,1/2/2023 16:00
+Title 41,Text content 41,Fox,Author A,421,428,141,Fake,1/2/2023 17:00
+Title 42,Text content 42,BBC,Author A,699,290,144,Real,1/2/2023 18:00
+Title 43,Text content 43,FakeNews,Author B,6,157,38,Real,1/2/2023 19:00
+Title 44,Text content 44,FakeNews,Author A,132,215,136,Real,1/2/2023 20:00
+Title 45,Text content 45,FakeNews,Unknown,746,489,98,Real,1/2/2023 21:00
+Title 46,Text content 46,FakeNews,Unknown,556,157,76,Real,1/2/2023 22:00
+Title 47,Text content 47,Fox,Author A,825,461,114,Fake,1/2/2023 23:00
+Title 48,Text content 48,BBC,Author A,760,133,133,Fake,1/3/2023 0:00
+Title 49,Text content 49,BBC,Unknown,30,66,150,Fake,1/3/2023 1:00
+Title 50,Text content 50,Fox,Author B,534,335,186,Fake,1/3/2023 2:00
+Title 51,Text content 51,BBC,Author A,425,6,90,Real,1/3/2023 3:00
+Title 52,Text content 52,Fox,Author A,393,435,97,Fake,1/3/2023 4:00
+Title 53,Text content 53,FakeNews,Unknown,671,13,119,Fake,1/3/2023 5:00
+Title 54,Text content 54,Fox,Author A,362,72,45,Real,1/3/2023 6:00
+Title 55,Text content 55,FakeNews,Author B,436,398,37,Real,1/3/2023 7:00
+Title 56,Text content 56,FakeNews,Unknown,669,404,141,Fake,1/3/2023 8:00
+Title 57,Text content 57,CNN,Author A,550,162,99,Fake,1/3/2023 9:00
+Title 58,Text content 58,Fox,Unknown,926,65,71,Real,1/3/2023 10:00
+Title 59,Text content 59,CNN,Author A,81,346,189,Fake,1/3/2023 11:00
+Title 60,Text content 60,Fox,Author A,355,129,34,Fake,1/3/2023 12:00
+Title 61,Text content 61,Fox,Author A,257,418,146,Fake,1/3/2023 13:00
+Title 62,Text content 62,CNN,Author B,717,465,29,Fake,1/3/2023 14:00
+Title 63,Text content 63,CNN,Author B,588,205,77,Real,1/3/2023 15:00
+Title 64,Text content 64,Fox,Unknown,988,275,83,Real,1/3/2023 16:00
+Title 65,Text content 65,BBC,Author A,523,465,112,Real,1/3/2023 17:00
+Title 66,Text content 66,FakeNews,Author A,294,255,24,Fake,1/3/2023 18:00
+Title 67,Text content 67,CNN,Author B,961,265,167,Fake,1/3/2023 19:00
+Title 68,Text content 68,FakeNews,Author A,223,24,87,Fake,1/3/2023 20:00
+Title 69,Text content 69,BBC,Author B,524,449,13,Fake,1/3/2023 21:00
+Title 70,Text content 70,BBC,Author A,45,280,153,Fake,1/3/2023 22:00
+Title 71,Text content 71,BBC,Unknown,666,252,101,Real,1/3/2023 23:00
+Title 72,Text content 72,CNN,Author A,112,309,149,Fake,1/4/2023 0:00
+Title 73,Text content 73,BBC,Author A,232,288,175,Fake,1/4/2023 1:00
+Title 74,Text content 74,CNN,Author B,16,163,82,Real,1/4/2023 2:00
+Title 75,Text content 75,BBC,Author A,359,94,109,Fake,1/4/2023 3:00
+Title 76,Text content 76,FakeNews,Author A,222,269,178,Real,1/4/2023 4:00
+Title 77,Text content 77,FakeNews,Author B,865,320,130,Real,1/4/2023 5:00
+Title 78,Text content 78,Fox,Unknown,699,109,169,Real,1/4/2023 6:00
+Title 79,Text content 79,FakeNews,Unknown,447,335,18,Real,1/4/2023 7:00
+Title 80,Text content 80,Fox,Author B,855,309,27,Real,1/4/2023 8:00
+Title 81,Text content 81,FakeNews,Author B,364,237,172,Fake,1/4/2023 9:00
+Title 82,Text content 82,CNN,Author B,674,380,70,Real,1/4/2023 10:00
+Title 83,Text content 83,FakeNews,Author B,325,435,62,Real,1/4/2023 11:00
+Title 84,Text content 84,Fox,Author B,466,386,72,Fake,1/4/2023 12:00
+Title 85,Text content 85,Fox,Unknown,413,482,123,Fake,1/4/2023 13:00
+Title 86,Text content 86,BBC,Unknown,454,424,118,Real,1/4/2023 14:00
+Title 87,Text content 87,CNN,Author B,585,389,120,Fake,1/4/2023 15:00
+Title 88,Text content 88,FakeNews,Author A,232,24,18,Fake,1/4/2023 16:00
+Title 89,Text content 89,BBC,Author B,223,140,174,Real,1/4/2023 17:00
+Title 90,Text content 90,FakeNews,Author A,993,116,141,Real,1/4/2023 18:00
+Title 91,Text content 91,FakeNews,Author B,830,481,119,Fake,1/4/2023 19:00
+Title 92,Text content 92,BBC,Author B,411,391,165,Real,1/4/2023 20:00
+Title 93,Text content 93,BBC,Unknown,571,404,180,Real,1/4/2023 21:00
+Title 94,Text content 94,BBC,Author A,334,481,60,Fake,1/4/2023 22:00
+Title 95,Text content 95,BBC,Author A,221,451,163,Real,1/4/2023 23:00
+Title 96,Text content 96,BBC,Unknown,36,24,167,Real,1/5/2023 0:00
+Title 97,Text content 97,FakeNews,Unknown,988,78,29,Real,1/5/2023 1:00
+Title 98,Text content 98,BBC,Unknown,277,67,8,Real,1/5/2023 2:00
+Title 99,Text content 99,CNN,Unknown,195,172,63,Real,1/5/2023 3:00
+Title 100,Text content 100,Fox,Author A,915,443,160,Fake,1/5/2023 4:00
+Title 101,Text content 101,BBC,Author A,863,11,119,Fake,1/5/2023 5:00
+Title 102,Text content 102,BBC,Author B,483,287,51,Real,1/5/2023 6:00
+Title 103,Text content 103,FakeNews,Author B,241,127,88,Fake,1/5/2023 7:00
+Title 104,Text content 104,BBC,Unknown,323,95,141,Real,1/5/2023 8:00
+Title 105,Text content 105,BBC,Unknown,730,91,52,Real,1/5/2023 9:00
+Title 106,Text content 106,BBC,Unknown,191,140,186,Real,1/5/2023 10:00
+Title 107,Text content 107,FakeNews,Author B,16,30,77,Real,1/5/2023 11:00
+Title 108,Text content 108,BBC,Author B,523,333,40,Real,1/5/2023 12:00
+Title 109,Text content 109,Fox,Author B,917,19,195,Fake,1/5/2023 13:00
+Title 110,Text content 110,FakeNews,Author B,400,145,67,Fake,1/5/2023 14:00
+Title 111,Text content 111,Fox,Author B,905,476,7,Real,1/5/2023 15:00
+Title 112,Text content 112,FakeNews,Author B,885,315,1,Fake,1/5/2023 16:00
+Title 113,Text content 113,BBC,Author B,704,446,104,Real,1/5/2023 17:00
+Title 114,Text content 114,Fox,Unknown,21,389,124,Fake,1/5/2023 18:00
+Title 115,Text content 115,FakeNews,Unknown,473,159,109,Real,1/5/2023 19:00
+Title 116,Text content 116,CNN,Unknown,119,348,85,Fake,1/5/2023 20:00
+Title 117,Text content 117,BBC,Unknown,209,42,168,Real,1/5/2023 21:00
+Title 118,Text content 118,FakeNews,Author B,305,253,119,Real,1/5/2023 22:00
+Title 119,Text content 119,CNN,Author A,269,129,126,Fake,1/5/2023 23:00
+Title 120,Text content 120,FakeNews,Author B,703,59,182,Fake,1/6/2023 0:00
+Title 121,Text content 121,CNN,Author A,686,150,15,Real,1/6/2023 1:00
+Title 122,Text content 122,BBC,Unknown,284,466,61,Fake,1/6/2023 2:00
+Title 123,Text content 123,Fox,Author B,715,286,112,Real,1/6/2023 3:00
+Title 124,Text content 124,CNN,Unknown,675,498,175,Fake,1/6/2023 4:00
+Title 125,Text content 125,FakeNews,Author B,762,4,157,Fake,1/6/2023 5:00
+Title 126,Text content 126,BBC,Unknown,226,466,11,Real,1/6/2023 6:00
+Title 127,Text content 127,CNN,Author A,947,417,34,Fake,1/6/2023 7:00
+Title 128,Text content 128,FakeNews,Author A,380,265,10,Fake,1/6/2023 8:00
+Title 129,Text content 129,FakeNews,Author A,459,344,63,Real,1/6/2023 9:00
+Title 130,Text content 130,FakeNews,Author B,6,129,49,Fake,1/6/2023 10:00
+Title 131,Text content 131,CNN,Author A,28,381,148,Real,1/6/2023 11:00
+Title 132,Text content 132,CNN,Author B,906,266,68,Real,1/6/2023 12:00
+Title 133,Text content 133,CNN,Author A,32,177,47,Real,1/6/2023 13:00
+Title 134,Text content 134,Fox,Author A,645,252,19,Real,1/6/2023 14:00
+Title 135,Text content 135,CNN,Author B,878,414,100,Real,1/6/2023 15:00
+Title 136,Text content 136,CNN,Author B,78,55,194,Fake,1/6/2023 16:00
+Title 137,Text content 137,CNN,Author A,927,462,171,Real,1/6/2023 17:00
+Title 138,Text content 138,Fox,Author B,946,456,160,Real,1/6/2023 18:00
+Title 139,Text content 139,CNN,Author A,458,470,188,Fake,1/6/2023 19:00
+Title 140,Text content 140,FakeNews,Author B,569,82,136,Fake,1/6/2023 20:00
+Title 141,Text content 141,CNN,Unknown,982,392,67,Fake,1/6/2023 21:00
+Title 142,Text content 142,FakeNews,Unknown,537,98,34,Real,1/6/2023 22:00
+Title 143,Text content 143,FakeNews,Unknown,481,148,64,Real,1/6/2023 23:00
+Title 144,Text content 144,FakeNews,Unknown,429,328,7,Real,1/7/2023 0:00
+Title 145,Text content 145,Fox,Unknown,737,155,44,Fake,1/7/2023 1:00
+Title 146,Text content 146,Fox,Author A,284,189,86,Real,1/7/2023 2:00
+Title 147,Text content 147,Fox,Unknown,515,493,174,Fake,1/7/2023 3:00
+Title 148,Text content 148,CNN,Unknown,976,370,167,Real,1/7/2023 4:00
+Title 149,Text content 149,FakeNews,Unknown,98,262,75,Fake,1/7/2023 5:00
+Title 150,Text content 150,Fox,Unknown,396,79,181,Real,1/7/2023 6:00
+Title 151,Text content 151,Fox,Author B,488,399,75,Real,1/7/2023 7:00
+Title 152,Text content 152,CNN,Author A,38,251,173,Real,1/7/2023 8:00
+Title 153,Text content 153,Fox,Unknown,270,96,46,Fake,1/7/2023 9:00
+Title 154,Text content 154,CNN,Unknown,886,259,14,Fake,1/7/2023 10:00
+Title 155,Text content 155,BBC,Unknown,796,259,104,Real,1/7/2023 11:00
+Title 156,Text content 156,Fox,Author A,156,102,146,Real,1/7/2023 12:00
+Title 157,Text content 157,BBC,Author B,74,39,25,Real,1/7/2023 13:00
+Title 158,Text content 158,CNN,Author A,883,272,51,Fake,1/7/2023 14:00
+Title 159,Text content 159,FakeNews,Author B,799,100,92,Real,1/7/2023 15:00
+Title 160,Text content 160,Fox,Unknown,129,358,149,Real,1/7/2023 16:00
+Title 161,Text content 161,CNN,Unknown,686,379,20,Real,1/7/2023 17:00
+Title 162,Text content 162,FakeNews,Author A,973,307,50,Real,1/7/2023 18:00
+Title 163,Text content 163,FakeNews,Author A,83,220,37,Fake,1/7/2023 19:00
+Title 164,Text content 164,BBC,Author B,21,307,19,Fake,1/7/2023 20:00
+Title 165,Text content 165,CNN,Author B,458,419,156,Real,1/7/2023 21:00
+Title 166,Text content 166,FakeNews,Author A,538,123,178,Real,1/7/2023 22:00
+Title 167,Text content 167,Fox,Author B,706,421,131,Fake,1/7/2023 23:00
+Title 168,Text content 168,Fox,Author A,848,230,54,Fake,1/8/2023 0:00
+Title 169,Text content 169,BBC,Author B,381,177,198,Real,1/8/2023 1:00
+Title 170,Text content 170,FakeNews,Author A,747,62,91,Fake,1/8/2023 2:00
+Title 171,Text content 171,CNN,Author A,439,484,27,Fake,1/8/2023 3:00
+Title 172,Text content 172,Fox,Author A,603,115,3,Real,1/8/2023 4:00
+Title 173,Text content 173,FakeNews,Author B,988,190,149,Fake,1/8/2023 5:00
+Title 174,Text content 174,FakeNews,Author B,20,61,75,Fake,1/8/2023 6:00
+Title 175,Text content 175,BBC,Author B,302,255,172,Real,1/8/2023 7:00
+Title 176,Text content 176,Fox,Author A,975,482,66,Real,1/8/2023 8:00
+Title 177,Text content 177,Fox,Author B,868,6,85,Fake,1/8/2023 9:00
+Title 178,Text content 178,CNN,Author B,954,154,193,Real,1/8/2023 10:00
+Title 179,Text content 179,Fox,Author A,83,91,161,Fake,1/8/2023 11:00
+Title 180,Text content 180,CNN,Unknown,773,469,90,Real,1/8/2023 12:00
+Title 181,Text content 181,Fox,Author A,658,13,182,Fake,1/8/2023 13:00
+Title 182,Text content 182,BBC,Author B,952,454,104,Real,1/8/2023 14:00
+Title 183,Text content 183,Fox,Author A,452,228,0,Fake,1/8/2023 15:00
+Title 184,Text content 184,CNN,Unknown,386,85,71,Fake,1/8/2023 16:00
+Title 185,Text content 185,CNN,Author A,506,132,86,Fake,1/8/2023 17:00
+Title 186,Text content 186,BBC,Author B,256,182,165,Real,1/8/2023 18:00
+Title 187,Text content 187,Fox,Unknown,569,385,5,Real,1/8/2023 19:00
+Title 188,Text content 188,Fox,Author B,891,61,152,Fake,1/8/2023 20:00
+Title 189,Text content 189,BBC,Unknown,933,218,144,Fake,1/8/2023 21:00
+Title 190,Text content 190,Fox,Unknown,526,404,60,Real,1/8/2023 22:00
+Title 191,Text content 191,Fox,Author A,161,245,11,Real,1/8/2023 23:00
+Title 192,Text content 192,CNN,Author A,956,229,5,Real,1/9/2023 0:00
+Title 193,Text content 193,Fox,Author B,162,78,26,Real,1/9/2023 1:00
+Title 194,Text content 194,Fox,Author A,831,148,135,Real,1/9/2023 2:00
+Title 195,Text content 195,BBC,Author A,792,137,123,Real,1/9/2023 3:00
+Title 196,Text content 196,BBC,Unknown,791,470,105,Fake,1/9/2023 4:00
+Title 197,Text content 197,FakeNews,Author A,523,313,192,Real,1/9/2023 5:00
+Title 198,Text content 198,CNN,Unknown,785,375,184,Fake,1/9/2023 6:00
+Title 199,Text content 199,Fox,Unknown,270,422,92,Real,1/9/2023 7:00
+Title 200,Text content 200,Fox,Unknown,491,388,108,Real,1/9/2023 8:00
+Title 201,Text content 201,FakeNews,Author B,207,64,98,Fake,1/9/2023 9:00
+Title 202,Text content 202,Fox,Author B,538,12,167,Fake,1/9/2023 10:00
+Title 203,Text content 203,CNN,Author B,583,212,141,Real,1/9/2023 11:00
+Title 204,Text content 204,FakeNews,Unknown,59,473,34,Fake,1/9/2023 12:00
+Title 205,Text content 205,CNN,Author B,429,241,175,Fake,1/9/2023 13:00
+Title 206,Text content 206,FakeNews,Author B,984,492,83,Fake,1/9/2023 14:00
+Title 207,Text content 207,FakeNews,Author A,656,212,55,Fake,1/9/2023 15:00
+Title 208,Text content 208,BBC,Author B,604,180,176,Real,1/9/2023 16:00
+Title 209,Text content 209,CNN,Author B,308,337,140,Fake,1/9/2023 17:00
+Title 210,Text content 210,Fox,Unknown,519,484,188,Real,1/9/2023 18:00
+Title 211,Text content 211,Fox,Unknown,590,172,48,Real,1/9/2023 19:00
+Title 212,Text content 212,CNN,Unknown,26,159,45,Real,1/9/2023 20:00
+Title 213,Text content 213,Fox,Unknown,685,163,112,Real,1/9/2023 21:00
+Title 214,Text content 214,Fox,Unknown,561,464,189,Fake,1/9/2023 22:00
+Title 215,Text content 215,CNN,Unknown,198,482,135,Fake,1/9/2023 23:00
+Title 216,Text content 216,FakeNews,Author B,386,496,42,Real,1/10/2023 0:00
+Title 217,Text content 217,CNN,Unknown,348,187,147,Real,1/10/2023 1:00
+Title 218,Text content 218,FakeNews,Unknown,959,394,123,Real,1/10/2023 2:00
+Title 219,Text content 219,Fox,Author A,939,190,96,Real,1/10/2023 3:00
+Title 220,Text content 220,Fox,Author B,692,404,89,Fake,1/10/2023 4:00
+Title 221,Text content 221,Fox,Author B,535,307,38,Real,1/10/2023 5:00
+Title 222,Text content 222,BBC,Author B,827,255,84,Fake,1/10/2023 6:00
+Title 223,Text content 223,FakeNews,Unknown,377,182,176,Real,1/10/2023 7:00
+Title 224,Text content 224,BBC,Unknown,898,116,191,Real,1/10/2023 8:00
+Title 225,Text content 225,BBC,Unknown,915,281,61,Real,1/10/2023 9:00
+Title 226,Text content 226,CNN,Author A,557,195,105,Real,1/10/2023 10:00
+Title 227,Text content 227,BBC,Unknown,526,33,106,Fake,1/10/2023 11:00
+Title 228,Text content 228,CNN,Author A,152,51,53,Fake,1/10/2023 12:00
+Title 229,Text content 229,CNN,Author B,733,111,125,Fake,1/10/2023 13:00
+Title 230,Text content 230,BBC,Unknown,205,251,8,Real,1/10/2023 14:00
+Title 231,Text content 231,FakeNews,Author A,454,81,87,Real,1/10/2023 15:00
+Title 232,Text content 232,FakeNews,Author A,272,231,36,Fake,1/10/2023 16:00
+Title 233,Text content 233,FakeNews,Unknown,893,226,48,Fake,1/10/2023 17:00
+Title 234,Text content 234,FakeNews,Author B,235,232,40,Real,1/10/2023 18:00
+Title 235,Text content 235,FakeNews,Author B,851,220,16,Real,1/10/2023 19:00
+Title 236,Text content 236,BBC,Author B,739,435,87,Fake,1/10/2023 20:00
+Title 237,Text content 237,BBC,Author A,520,412,20,Real,1/10/2023 21:00
+Title 238,Text content 238,Fox,Author A,677,421,50,Real,1/10/2023 22:00
+Title 239,Text content 239,FakeNews,Author A,943,41,58,Fake,1/10/2023 23:00
+Title 240,Text content 240,BBC,Author A,955,20,166,Real,1/11/2023 0:00
+Title 241,Text content 241,Fox,Author B,830,41,182,Fake,1/11/2023 1:00
+Title 242,Text content 242,FakeNews,Unknown,725,396,40,Real,1/11/2023 2:00
+Title 243,Text content 243,CNN,Author A,500,112,38,Fake,1/11/2023 3:00
+Title 244,Text content 244,Fox,Author A,116,104,140,Real,1/11/2023 4:00
+Title 245,Text content 245,BBC,Author B,385,191,191,Fake,1/11/2023 5:00
+Title 246,Text content 246,CNN,Unknown,343,16,10,Fake,1/11/2023 6:00
+Title 247,Text content 247,CNN,Unknown,583,119,146,Fake,1/11/2023 7:00
+Title 248,Text content 248,CNN,Author B,394,392,138,Fake,1/11/2023 8:00
+Title 249,Text content 249,Fox,Author B,63,424,76,Real,1/11/2023 9:00
+Title 250,Text content 250,BBC,Unknown,716,128,126,Real,1/11/2023 10:00
+Title 251,Text content 251,CNN,Author A,720,129,45,Fake,1/11/2023 11:00
+Title 252,Text content 252,FakeNews,Unknown,71,59,44,Real,1/11/2023 12:00
+Title 253,Text content 253,CNN,Author B,788,47,0,Real,1/11/2023 13:00
+Title 254,Text content 254,CNN,Author A,273,28,167,Real,1/11/2023 14:00
+Title 255,Text content 255,Fox,Author A,989,96,107,Real,1/11/2023 15:00
+Title 256,Text content 256,Fox,Author B,319,9,18,Real,1/11/2023 16:00
+Title 257,Text content 257,BBC,Author B,337,241,75,Fake,1/11/2023 17:00
+Title 258,Text content 258,FakeNews,Author B,365,313,71,Fake,1/11/2023 18:00
+Title 259,Text content 259,Fox,Unknown,494,443,199,Fake,1/11/2023 19:00
+Title 260,Text content 260,CNN,Unknown,606,231,188,Fake,1/11/2023 20:00
+Title 261,Text content 261,BBC,Author A,165,276,108,Real,1/11/2023 21:00
+Title 262,Text content 262,CNN,Author B,543,283,11,Real,1/11/2023 22:00
+Title 263,Text content 263,CNN,Author A,10,202,188,Fake,1/11/2023 23:00
+Title 264,Text content 264,Fox,Author A,300,246,160,Real,1/12/2023 0:00
+Title 265,Text content 265,BBC,Author A,728,289,44,Real,1/12/2023 1:00
+Title 266,Text content 266,FakeNews,Author A,800,263,89,Fake,1/12/2023 2:00
+Title 267,Text content 267,FakeNews,Author B,101,442,102,Real,1/12/2023 3:00
+Title 268,Text content 268,Fox,Author A,424,213,196,Fake,1/12/2023 4:00
+Title 269,Text content 269,Fox,Author B,391,199,7,Fake,1/12/2023 5:00
+Title 270,Text content 270,BBC,Author B,778,432,152,Real,1/12/2023 6:00
+Title 271,Text content 271,FakeNews,Unknown,213,78,90,Real,1/12/2023 7:00
+Title 272,Text content 272,FakeNews,Author B,690,400,173,Fake,1/12/2023 8:00
+Title 273,Text content 273,FakeNews,Unknown,87,443,86,Fake,1/12/2023 9:00
+Title 274,Text content 274,CNN,Author B,552,342,157,Real,1/12/2023 10:00
+Title 275,Text content 275,FakeNews,Author B,400,343,174,Fake,1/12/2023 11:00
+Title 276,Text content 276,CNN,Author B,587,172,176,Fake,1/12/2023 12:00
+Title 277,Text content 277,BBC,Unknown,888,466,174,Fake,1/12/2023 13:00
+Title 278,Text content 278,CNN,Unknown,45,68,83,Real,1/12/2023 14:00
+Title 279,Text content 279,BBC,Author A,671,415,81,Fake,1/12/2023 15:00
+Title 280,Text content 280,FakeNews,Unknown,462,427,145,Real,1/12/2023 16:00
+Title 281,Text content 281,FakeNews,Unknown,591,448,193,Fake,1/12/2023 17:00
+Title 282,Text content 282,BBC,Unknown,309,86,67,Real,1/12/2023 18:00
+Title 283,Text content 283,Fox,Unknown,85,100,160,Fake,1/12/2023 19:00
+Title 284,Text content 284,BBC,Author A,91,7,126,Real,1/12/2023 20:00
+Title 285,Text content 285,Fox,Unknown,659,332,163,Real,1/12/2023 21:00
+Title 286,Text content 286,CNN,Author B,672,199,81,Real,1/12/2023 22:00
+Title 287,Text content 287,CNN,Author B,713,86,146,Fake,1/12/2023 23:00
+Title 288,Text content 288,CNN,Unknown,935,42,155,Fake,1/13/2023 0:00
+Title 289,Text content 289,FakeNews,Unknown,927,384,167,Fake,1/13/2023 1:00
+Title 290,Text content 290,CNN,Author B,241,108,83,Real,1/13/2023 2:00
+Title 291,Text content 291,Fox,Author B,864,434,112,Fake,1/13/2023 3:00
+Title 292,Text content 292,CNN,Author A,1,407,75,Real,1/13/2023 4:00
+Title 293,Text content 293,BBC,Author B,224,482,121,Fake,1/13/2023 5:00
+Title 294,Text content 294,BBC,Author B,800,151,142,Real,1/13/2023 6:00
+Title 295,Text content 295,FakeNews,Unknown,744,16,40,Real,1/13/2023 7:00
+Title 296,Text content 296,BBC,Author B,972,132,166,Real,1/13/2023 8:00
+Title 297,Text content 297,Fox,Author A,925,147,1,Fake,1/13/2023 9:00
+Title 298,Text content 298,CNN,Author B,928,276,190,Fake,1/13/2023 10:00
+Title 299,Text content 299,FakeNews,Unknown,588,231,28,Fake,1/13/2023 11:00
+Title 300,Text content 300,CNN,Unknown,115,313,104,Real,1/13/2023 12:00
+Title 301,Text content 301,CNN,Author B,665,414,193,Real,1/13/2023 13:00
+Title 302,Text content 302,Fox,Unknown,917,365,50,Fake,1/13/2023 14:00
+Title 303,Text content 303,BBC,Author A,102,227,74,Fake,1/13/2023 15:00
+Title 304,Text content 304,BBC,Author A,193,138,9,Fake,1/13/2023 16:00
+Title 305,Text content 305,CNN,Author B,165,435,141,Real,1/13/2023 17:00
+Title 306,Text content 306,FakeNews,Author B,870,398,50,Real,1/13/2023 18:00
+Title 307,Text content 307,BBC,Author B,89,210,117,Real,1/13/2023 19:00
+Title 308,Text content 308,FakeNews,Unknown,685,390,120,Real,1/13/2023 20:00
+Title 309,Text content 309,BBC,Author A,121,498,38,Real,1/13/2023 21:00
+Title 310,Text content 310,FakeNews,Author A,142,27,27,Fake,1/13/2023 22:00
+Title 311,Text content 311,Fox,Unknown,993,50,2,Real,1/13/2023 23:00
+Title 312,Text content 312,FakeNews,Author A,105,490,83,Real,1/14/2023 0:00
+Title 313,Text content 313,Fox,Author B,886,441,197,Real,1/14/2023 1:00
+Title 314,Text content 314,Fox,Author B,427,260,154,Real,1/14/2023 2:00
+Title 315,Text content 315,FakeNews,Author B,304,260,116,Real,1/14/2023 3:00
+Title 316,Text content 316,Fox,Author A,871,349,1,Fake,1/14/2023 4:00
+Title 317,Text content 317,CNN,Author B,970,351,92,Real,1/14/2023 5:00
+Title 318,Text content 318,Fox,Unknown,316,7,165,Real,1/14/2023 6:00
+Title 319,Text content 319,BBC,Unknown,962,319,130,Real,1/14/2023 7:00
+Title 320,Text content 320,FakeNews,Author A,634,137,143,Fake,1/14/2023 8:00
+Title 321,Text content 321,CNN,Unknown,901,37,93,Fake,1/14/2023 9:00
+Title 322,Text content 322,FakeNews,Unknown,8,110,39,Fake,1/14/2023 10:00
+Title 323,Text content 323,BBC,Author A,773,479,1,Real,1/14/2023 11:00
+Title 324,Text content 324,BBC,Author B,72,367,80,Fake,1/14/2023 12:00
+Title 325,Text content 325,BBC,Author B,358,219,168,Real,1/14/2023 13:00
+Title 326,Text content 326,Fox,Author B,222,336,11,Real,1/14/2023 14:00
+Title 327,Text content 327,Fox,Author A,415,222,162,Fake,1/14/2023 15:00
+Title 328,Text content 328,FakeNews,Unknown,552,135,64,Real,1/14/2023 16:00
+Title 329,Text content 329,FakeNews,Author B,369,255,54,Real,1/14/2023 17:00
+Title 330,Text content 330,CNN,Author B,715,359,44,Real,1/14/2023 18:00
+Title 331,Text content 331,CNN,Author A,263,408,100,Fake,1/14/2023 19:00
+Title 332,Text content 332,FakeNews,Author B,839,328,61,Real,1/14/2023 20:00
+Title 333,Text content 333,Fox,Author A,689,449,48,Real,1/14/2023 21:00
+Title 334,Text content 334,BBC,Unknown,859,462,126,Fake,1/14/2023 22:00
+Title 335,Text content 335,FakeNews,Author A,317,433,152,Real,1/14/2023 23:00
+Title 336,Text content 336,CNN,Author A,83,450,22,Real,1/15/2023 0:00
+Title 337,Text content 337,Fox,Author A,317,48,151,Fake,1/15/2023 1:00
+Title 338,Text content 338,FakeNews,Author A,110,291,37,Real,1/15/2023 2:00
+Title 339,Text content 339,FakeNews,Unknown,250,381,27,Real,1/15/2023 3:00
+Title 340,Text content 340,Fox,Unknown,382,323,20,Real,1/15/2023 4:00
+Title 341,Text content 341,FakeNews,Author B,6,77,181,Real,1/15/2023 5:00
+Title 342,Text content 342,Fox,Unknown,458,104,106,Real,1/15/2023 6:00
+Title 343,Text content 343,BBC,Unknown,83,168,145,Fake,1/15/2023 7:00
+Title 344,Text content 344,Fox,Author B,207,216,163,Fake,1/15/2023 8:00
+Title 345,Text content 345,Fox,Unknown,899,377,98,Fake,1/15/2023 9:00
+Title 346,Text content 346,Fox,Author A,389,118,172,Fake,1/15/2023 10:00
+Title 347,Text content 347,FakeNews,Author A,313,189,118,Real,1/15/2023 11:00
+Title 348,Text content 348,FakeNews,Author B,21,254,72,Real,1/15/2023 12:00
+Title 349,Text content 349,Fox,Author B,409,369,180,Real,1/15/2023 13:00
+Title 350,Text content 350,FakeNews,Author B,894,265,121,Real,1/15/2023 14:00
+Title 351,Text content 351,CNN,Author A,514,148,29,Real,1/15/2023 15:00
+Title 352,Text content 352,CNN,Unknown,126,163,187,Fake,1/15/2023 16:00
+Title 353,Text content 353,FakeNews,Author A,808,139,107,Fake,1/15/2023 17:00
+Title 354,Text content 354,FakeNews,Author B,699,346,97,Real,1/15/2023 18:00
+Title 355,Text content 355,Fox,Unknown,873,487,31,Real,1/15/2023 19:00
+Title 356,Text content 356,BBC,Unknown,13,257,194,Real,1/15/2023 20:00
+Title 357,Text content 357,FakeNews,Author A,970,373,194,Fake,1/15/2023 21:00
+Title 358,Text content 358,CNN,Author B,977,268,155,Real,1/15/2023 22:00
+Title 359,Text content 359,Fox,Author A,11,180,171,Real,1/15/2023 23:00
+Title 360,Text content 360,FakeNews,Unknown,86,159,78,Real,1/16/2023 0:00
+Title 361,Text content 361,CNN,Author A,523,350,40,Fake,1/16/2023 1:00
+Title 362,Text content 362,CNN,Author A,908,399,62,Real,1/16/2023 2:00
+Title 363,Text content 363,BBC,Author B,536,287,22,Fake,1/16/2023 3:00
+Title 364,Text content 364,Fox,Author B,300,287,103,Fake,1/16/2023 4:00
+Title 365,Text content 365,Fox,Unknown,242,379,74,Fake,1/16/2023 5:00
+Title 366,Text content 366,BBC,Author A,121,225,47,Fake,1/16/2023 6:00
+Title 367,Text content 367,BBC,Author A,146,10,159,Fake,1/16/2023 7:00
+Title 368,Text content 368,Fox,Author A,566,9,56,Fake,1/16/2023 8:00
+Title 369,Text content 369,Fox,Unknown,749,270,117,Real,1/16/2023 9:00
+Title 370,Text content 370,FakeNews,Unknown,355,272,99,Real,1/16/2023 10:00
+Title 371,Text content 371,FakeNews,Author B,684,423,123,Real,1/16/2023 11:00
+Title 372,Text content 372,BBC,Author B,903,401,160,Fake,1/16/2023 12:00
+Title 373,Text content 373,FakeNews,Author B,732,182,151,Real,1/16/2023 13:00
+Title 374,Text content 374,CNN,Author A,630,456,166,Fake,1/16/2023 14:00
+Title 375,Text content 375,FakeNews,Author A,308,152,33,Fake,1/16/2023 15:00
+Title 376,Text content 376,FakeNews,Author B,694,487,183,Fake,1/16/2023 16:00
+Title 377,Text content 377,CNN,Author A,287,314,155,Real,1/16/2023 17:00
+Title 378,Text content 378,BBC,Author B,306,333,164,Fake,1/16/2023 18:00
+Title 379,Text content 379,CNN,Unknown,811,123,6,Fake,1/16/2023 19:00
+Title 380,Text content 380,FakeNews,Author B,593,472,195,Real,1/16/2023 20:00
+Title 381,Text content 381,BBC,Unknown,965,113,164,Real,1/16/2023 21:00
+Title 382,Text content 382,FakeNews,Author A,913,277,55,Fake,1/16/2023 22:00
+Title 383,Text content 383,CNN,Author B,722,499,64,Fake,1/16/2023 23:00
+Title 384,Text content 384,CNN,Author A,661,413,192,Real,1/17/2023 0:00
+Title 385,Text content 385,FakeNews,Unknown,548,467,46,Real,1/17/2023 1:00
+Title 386,Text content 386,Fox,Unknown,351,212,147,Real,1/17/2023 2:00
+Title 387,Text content 387,Fox,Unknown,311,171,18,Fake,1/17/2023 3:00
+Title 388,Text content 388,CNN,Author A,872,287,156,Real,1/17/2023 4:00
+Title 389,Text content 389,CNN,Author A,58,434,187,Real,1/17/2023 5:00
+Title 390,Text content 390,Fox,Author A,642,173,145,Real,1/17/2023 6:00
+Title 391,Text content 391,Fox,Author A,923,112,162,Fake,1/17/2023 7:00
+Title 392,Text content 392,FakeNews,Unknown,713,375,170,Real,1/17/2023 8:00
+Title 393,Text content 393,FakeNews,Unknown,754,404,125,Real,1/17/2023 9:00
+Title 394,Text content 394,Fox,Author B,34,482,138,Real,1/17/2023 10:00
+Title 395,Text content 395,FakeNews,Author B,444,121,48,Real,1/17/2023 11:00
+Title 396,Text content 396,FakeNews,Author A,92,31,112,Real,1/17/2023 12:00
+Title 397,Text content 397,BBC,Unknown,949,221,37,Fake,1/17/2023 13:00
+Title 398,Text content 398,FakeNews,Unknown,958,118,63,Fake,1/17/2023 14:00
+Title 399,Text content 399,CNN,Unknown,206,38,68,Fake,1/17/2023 15:00
+Title 400,Text content 400,FakeNews,Author B,352,496,135,Real,1/17/2023 16:00
+Title 401,Text content 401,FakeNews,Author B,902,267,161,Fake,1/17/2023 17:00
+Title 402,Text content 402,Fox,Unknown,331,232,175,Fake,1/17/2023 18:00
+Title 403,Text content 403,CNN,Unknown,816,430,115,Fake,1/17/2023 19:00
+Title 404,Text content 404,FakeNews,Unknown,861,17,183,Real,1/17/2023 20:00
+Title 405,Text content 405,FakeNews,Author B,724,148,64,Real,1/17/2023 21:00
+Title 406,Text content 406,BBC,Unknown,158,396,30,Fake,1/17/2023 22:00
+Title 407,Text content 407,FakeNews,Unknown,953,148,131,Fake,1/17/2023 23:00
+Title 408,Text content 408,FakeNews,Author A,956,125,112,Real,1/18/2023 0:00
+Title 409,Text content 409,BBC,Author A,23,391,108,Real,1/18/2023 1:00
+Title 410,Text content 410,Fox,Author B,403,301,177,Fake,1/18/2023 2:00
+Title 411,Text content 411,FakeNews,Unknown,804,359,68,Real,1/18/2023 3:00
+Title 412,Text content 412,BBC,Unknown,515,237,157,Fake,1/18/2023 4:00
+Title 413,Text content 413,CNN,Author A,731,134,119,Real,1/18/2023 5:00
+Title 414,Text content 414,Fox,Author B,363,150,87,Fake,1/18/2023 6:00
+Title 415,Text content 415,CNN,Author A,381,235,186,Fake,1/18/2023 7:00
+Title 416,Text content 416,CNN,Author A,531,223,66,Real,1/18/2023 8:00
+Title 417,Text content 417,BBC,Author A,955,202,74,Fake,1/18/2023 9:00
+Title 418,Text content 418,FakeNews,Author A,151,255,44,Fake,1/18/2023 10:00
+Title 419,Text content 419,BBC,Unknown,561,85,3,Fake,1/18/2023 11:00
+Title 420,Text content 420,BBC,Unknown,688,149,153,Real,1/18/2023 12:00
+Title 421,Text content 421,BBC,Author A,946,234,154,Real,1/18/2023 13:00
+Title 422,Text content 422,BBC,Author B,607,344,173,Real,1/18/2023 14:00
+Title 423,Text content 423,Fox,Author B,616,21,106,Fake,1/18/2023 15:00
+Title 424,Text content 424,FakeNews,Author B,419,347,191,Real,1/18/2023 16:00
+Title 425,Text content 425,CNN,Author B,249,284,50,Fake,1/18/2023 17:00
+Title 426,Text content 426,CNN,Author A,116,268,49,Fake,1/18/2023 18:00
+Title 427,Text content 427,FakeNews,Unknown,865,465,5,Real,1/18/2023 19:00
+Title 428,Text content 428,CNN,Author B,511,257,58,Real,1/18/2023 20:00
+Title 429,Text content 429,FakeNews,Author A,739,28,124,Fake,1/18/2023 21:00
+Title 430,Text content 430,CNN,Author B,577,212,142,Fake,1/18/2023 22:00
+Title 431,Text content 431,BBC,Author B,334,462,29,Real,1/18/2023 23:00
+Title 432,Text content 432,CNN,Author A,417,435,169,Real,1/19/2023 0:00
+Title 433,Text content 433,FakeNews,Unknown,931,282,121,Real,1/19/2023 1:00
+Title 434,Text content 434,FakeNews,Unknown,773,49,124,Fake,1/19/2023 2:00
+Title 435,Text content 435,FakeNews,Author A,294,94,36,Fake,1/19/2023 3:00
+Title 436,Text content 436,FakeNews,Unknown,937,462,169,Fake,1/19/2023 4:00
+Title 437,Text content 437,FakeNews,Author A,754,498,123,Fake,1/19/2023 5:00
+Title 438,Text content 438,Fox,Author A,370,406,100,Fake,1/19/2023 6:00
+Title 439,Text content 439,Fox,Author A,185,87,34,Real,1/19/2023 7:00
+Title 440,Text content 440,CNN,Unknown,245,43,86,Real,1/19/2023 8:00
+Title 441,Text content 441,FakeNews,Author A,636,460,133,Fake,1/19/2023 9:00
+Title 442,Text content 442,CNN,Author B,267,277,195,Fake,1/19/2023 10:00
+Title 443,Text content 443,FakeNews,Unknown,642,170,17,Real,1/19/2023 11:00
+Title 444,Text content 444,FakeNews,Unknown,236,420,112,Real,1/19/2023 12:00
+Title 445,Text content 445,Fox,Unknown,529,188,28,Real,1/19/2023 13:00
+Title 446,Text content 446,Fox,Unknown,551,352,76,Real,1/19/2023 14:00
+Title 447,Text content 447,BBC,Author B,20,183,58,Fake,1/19/2023 15:00
+Title 448,Text content 448,Fox,Unknown,910,2,174,Real,1/19/2023 16:00
+Title 449,Text content 449,BBC,Unknown,736,190,125,Fake,1/19/2023 17:00
+Title 450,Text content 450,BBC,Author A,866,117,144,Real,1/19/2023 18:00
+Title 451,Text content 451,BBC,Unknown,793,18,108,Real,1/19/2023 19:00
+Title 452,Text content 452,BBC,Author B,519,22,21,Real,1/19/2023 20:00
+Title 453,Text content 453,BBC,Author B,99,412,67,Fake,1/19/2023 21:00
+Title 454,Text content 454,CNN,Author B,751,29,68,Fake,1/19/2023 22:00
+Title 455,Text content 455,Fox,Author B,477,294,164,Real,1/19/2023 23:00
+Title 456,Text content 456,BBC,Unknown,598,107,48,Fake,1/20/2023 0:00
+Title 457,Text content 457,FakeNews,Unknown,297,366,140,Fake,1/20/2023 1:00
+Title 458,Text content 458,Fox,Author B,939,280,161,Real,1/20/2023 2:00
+Title 459,Text content 459,Fox,Author B,525,127,108,Real,1/20/2023 3:00
+Title 460,Text content 460,BBC,Unknown,333,228,85,Fake,1/20/2023 4:00
+Title 461,Text content 461,CNN,Author B,1,110,52,Fake,1/20/2023 5:00
+Title 462,Text content 462,BBC,Author A,374,135,122,Fake,1/20/2023 6:00
+Title 463,Text content 463,CNN,Author B,292,361,86,Real,1/20/2023 7:00
+Title 464,Text content 464,FakeNews,Author B,836,185,178,Real,1/20/2023 8:00
+Title 465,Text content 465,Fox,Author A,933,143,130,Fake,1/20/2023 9:00
+Title 466,Text content 466,FakeNews,Author A,552,71,41,Real,1/20/2023 10:00
+Title 467,Text content 467,CNN,Unknown,317,128,97,Real,1/20/2023 11:00
+Title 468,Text content 468,CNN,Unknown,501,363,159,Fake,1/20/2023 12:00
+Title 469,Text content 469,FakeNews,Author A,827,260,108,Fake,1/20/2023 13:00
+Title 470,Text content 470,CNN,Author A,380,2,50,Real,1/20/2023 14:00
+Title 471,Text content 471,FakeNews,Unknown,622,448,84,Real,1/20/2023 15:00
+Title 472,Text content 472,Fox,Author B,13,387,173,Fake,1/20/2023 16:00
+Title 473,Text content 473,FakeNews,Author A,503,103,126,Real,1/20/2023 17:00
+Title 474,Text content 474,Fox,Unknown,230,482,20,Real,1/20/2023 18:00
+Title 475,Text content 475,FakeNews,Author B,984,223,43,Fake,1/20/2023 19:00
+Title 476,Text content 476,CNN,Author A,83,319,138,Fake,1/20/2023 20:00
+Title 477,Text content 477,FakeNews,Author B,129,361,102,Real,1/20/2023 21:00
+Title 478,Text content 478,CNN,Unknown,742,353,67,Real,1/20/2023 22:00
+Title 479,Text content 479,FakeNews,Author A,837,490,128,Real,1/20/2023 23:00
+Title 480,Text content 480,FakeNews,Author B,144,472,91,Fake,1/21/2023 0:00
+Title 481,Text content 481,BBC,Author A,890,9,190,Real,1/21/2023 1:00
+Title 482,Text content 482,CNN,Author B,856,404,23,Real,1/21/2023 2:00
+Title 483,Text content 483,BBC,Unknown,27,383,124,Fake,1/21/2023 3:00
+Title 484,Text content 484,CNN,Unknown,65,301,140,Fake,1/21/2023 4:00
+Title 485,Text content 485,BBC,Author A,162,230,110,Real,1/21/2023 5:00
+Title 486,Text content 486,Fox,Author B,228,218,97,Fake,1/21/2023 6:00
+Title 487,Text content 487,FakeNews,Author A,260,410,138,Fake,1/21/2023 7:00
+Title 488,Text content 488,CNN,Author A,448,65,178,Real,1/21/2023 8:00
+Title 489,Text content 489,CNN,Author B,423,424,16,Fake,1/21/2023 9:00
+Title 490,Text content 490,FakeNews,Author B,459,111,98,Fake,1/21/2023 10:00
+Title 491,Text content 491,CNN,Author B,951,12,81,Real,1/21/2023 11:00
+Title 492,Text content 492,CNN,Unknown,675,392,103,Fake,1/21/2023 12:00
+Title 493,Text content 493,BBC,Author A,300,499,151,Real,1/21/2023 13:00
+Title 494,Text content 494,CNN,Author A,918,419,18,Real,1/21/2023 14:00
+Title 495,Text content 495,Fox,Unknown,302,85,164,Fake,1/21/2023 15:00
+Title 496,Text content 496,Fox,Author B,286,233,84,Fake,1/21/2023 16:00
+Title 497,Text content 497,FakeNews,Unknown,394,89,7,Fake,1/21/2023 17:00
+Title 498,Text content 498,CNN,Unknown,9,313,27,Real,1/21/2023 18:00
+Title 499,Text content 499,FakeNews,Unknown,706,53,4,Fake,1/21/2023 19:00
+Title 500,Text content 500,Fox,Author A,629,11,144,Real,1/21/2023 20:00
+Title 501,Text content 501,CNN,Unknown,269,208,100,Fake,1/21/2023 21:00
+Title 502,Text content 502,CNN,Author A,591,461,163,Fake,1/21/2023 22:00
+Title 503,Text content 503,FakeNews,Author A,969,13,117,Fake,1/21/2023 23:00
+Title 504,Text content 504,Fox,Author A,604,120,146,Real,1/22/2023 0:00
+Title 505,Text content 505,CNN,Author B,777,417,63,Fake,1/22/2023 1:00
+Title 506,Text content 506,FakeNews,Author A,843,436,90,Fake,1/22/2023 2:00
+Title 507,Text content 507,Fox,Author A,861,376,116,Real,1/22/2023 3:00
+Title 508,Text content 508,FakeNews,Author B,360,19,97,Real,1/22/2023 4:00
+Title 509,Text content 509,BBC,Author A,256,74,10,Fake,1/22/2023 5:00
+Title 510,Text content 510,CNN,Unknown,132,399,53,Fake,1/22/2023 6:00
+Title 511,Text content 511,BBC,Unknown,275,242,172,Fake,1/22/2023 7:00
+Title 512,Text content 512,Fox,Author A,775,222,46,Real,1/22/2023 8:00
+Title 513,Text content 513,BBC,Author B,682,69,139,Real,1/22/2023 9:00
+Title 514,Text content 514,BBC,Unknown,971,311,148,Real,1/22/2023 10:00
+Title 515,Text content 515,Fox,Author B,512,210,138,Real,1/22/2023 11:00
+Title 516,Text content 516,FakeNews,Author B,312,100,4,Fake,1/22/2023 12:00
+Title 517,Text content 517,BBC,Unknown,575,185,183,Real,1/22/2023 13:00
+Title 518,Text content 518,FakeNews,Author B,885,131,19,Real,1/22/2023 14:00
+Title 519,Text content 519,BBC,Unknown,979,110,168,Real,1/22/2023 15:00
+Title 520,Text content 520,FakeNews,Author B,283,380,45,Fake,1/22/2023 16:00
+Title 521,Text content 521,Fox,Unknown,120,131,11,Fake,1/22/2023 17:00
+Title 522,Text content 522,BBC,Author A,106,19,69,Real,1/22/2023 18:00
+Title 523,Text content 523,Fox,Unknown,932,393,16,Real,1/22/2023 19:00
+Title 524,Text content 524,BBC,Unknown,686,23,114,Fake,1/22/2023 20:00
+Title 525,Text content 525,Fox,Unknown,996,226,146,Fake,1/22/2023 21:00
+Title 526,Text content 526,Fox,Unknown,203,153,153,Fake,1/22/2023 22:00
+Title 527,Text content 527,BBC,Author B,164,292,47,Fake,1/22/2023 23:00
+Title 528,Text content 528,BBC,Author A,304,229,107,Fake,1/23/2023 0:00
+Title 529,Text content 529,BBC,Unknown,496,468,51,Fake,1/23/2023 1:00
+Title 530,Text content 530,CNN,Author B,631,309,95,Fake,1/23/2023 2:00
+Title 531,Text content 531,FakeNews,Author A,555,487,69,Fake,1/23/2023 3:00
+Title 532,Text content 532,CNN,Author A,823,358,182,Real,1/23/2023 4:00
+Title 533,Text content 533,CNN,Author A,155,404,101,Real,1/23/2023 5:00
+Title 534,Text content 534,Fox,Author A,366,201,74,Real,1/23/2023 6:00
+Title 535,Text content 535,BBC,Unknown,718,37,160,Real,1/23/2023 7:00
+Title 536,Text content 536,FakeNews,Unknown,901,429,189,Real,1/23/2023 8:00
+Title 537,Text content 537,Fox,Author B,619,259,150,Real,1/23/2023 9:00
+Title 538,Text content 538,CNN,Author B,250,187,142,Fake,1/23/2023 10:00
+Title 539,Text content 539,BBC,Author B,956,56,154,Fake,1/23/2023 11:00
+Title 540,Text content 540,Fox,Author A,915,428,191,Real,1/23/2023 12:00
+Title 541,Text content 541,BBC,Author A,881,19,178,Real,1/23/2023 13:00
+Title 542,Text content 542,Fox,Unknown,333,272,180,Fake,1/23/2023 14:00
+Title 543,Text content 543,BBC,Author A,641,118,81,Fake,1/23/2023 15:00
+Title 544,Text content 544,CNN,Author A,968,70,91,Fake,1/23/2023 16:00
+Title 545,Text content 545,FakeNews,Author A,510,3,178,Real,1/23/2023 17:00
+Title 546,Text content 546,CNN,Author B,292,220,174,Fake,1/23/2023 18:00
+Title 547,Text content 547,FakeNews,Author B,19,13,3,Real,1/23/2023 19:00
+Title 548,Text content 548,BBC,Unknown,281,2,134,Real,1/23/2023 20:00
+Title 549,Text content 549,Fox,Author A,796,215,108,Fake,1/23/2023 21:00
+Title 550,Text content 550,CNN,Author A,0,228,162,Fake,1/23/2023 22:00
+Title 551,Text content 551,FakeNews,Unknown,118,335,47,Real,1/23/2023 23:00
+Title 552,Text content 552,CNN,Author A,34,185,72,Fake,1/24/2023 0:00
+Title 553,Text content 553,FakeNews,Author A,197,54,71,Fake,1/24/2023 1:00
+Title 554,Text content 554,CNN,Author B,484,499,115,Real,1/24/2023 2:00
+Title 555,Text content 555,FakeNews,Unknown,756,387,172,Fake,1/24/2023 3:00
+Title 556,Text content 556,FakeNews,Unknown,58,375,80,Real,1/24/2023 4:00
+Title 557,Text content 557,BBC,Unknown,836,253,80,Real,1/24/2023 5:00
+Title 558,Text content 558,FakeNews,Unknown,160,23,112,Fake,1/24/2023 6:00
+Title 559,Text content 559,BBC,Author B,690,161,95,Real,1/24/2023 7:00
+Title 560,Text content 560,FakeNews,Author B,205,157,71,Real,1/24/2023 8:00
+Title 561,Text content 561,Fox,Author A,11,81,146,Fake,1/24/2023 9:00
+Title 562,Text content 562,Fox,Author A,489,402,62,Fake,1/24/2023 10:00
+Title 563,Text content 563,Fox,Author A,275,158,37,Fake,1/24/2023 11:00
+Title 564,Text content 564,FakeNews,Author A,692,187,66,Real,1/24/2023 12:00
+Title 565,Text content 565,BBC,Author B,241,59,186,Real,1/24/2023 13:00
+Title 566,Text content 566,BBC,Unknown,215,402,68,Fake,1/24/2023 14:00
+Title 567,Text content 567,FakeNews,Author B,250,304,12,Real,1/24/2023 15:00
+Title 568,Text content 568,Fox,Author A,810,318,174,Fake,1/24/2023 16:00
+Title 569,Text content 569,Fox,Author B,125,365,188,Fake,1/24/2023 17:00
+Title 570,Text content 570,BBC,Unknown,993,210,30,Real,1/24/2023 18:00
+Title 571,Text content 571,Fox,Unknown,216,405,113,Fake,1/24/2023 19:00
+Title 572,Text content 572,CNN,Author B,305,151,21,Real,1/24/2023 20:00
+Title 573,Text content 573,BBC,Author B,796,108,92,Real,1/24/2023 21:00
+Title 574,Text content 574,Fox,Author B,184,75,170,Fake,1/24/2023 22:00
+Title 575,Text content 575,BBC,Author A,38,29,66,Real,1/24/2023 23:00
+Title 576,Text content 576,CNN,Author B,222,313,53,Fake,1/25/2023 0:00
+Title 577,Text content 577,BBC,Author B,183,485,137,Real,1/25/2023 1:00
+Title 578,Text content 578,BBC,Author B,494,116,41,Real,1/25/2023 2:00
+Title 579,Text content 579,BBC,Unknown,426,414,63,Real,1/25/2023 3:00
+Title 580,Text content 580,BBC,Unknown,177,355,125,Fake,1/25/2023 4:00
+Title 581,Text content 581,CNN,Author A,918,191,20,Real,1/25/2023 5:00
+Title 582,Text content 582,FakeNews,Author A,427,18,193,Fake,1/25/2023 6:00
+Title 583,Text content 583,BBC,Unknown,293,431,168,Real,1/25/2023 7:00
+Title 584,Text content 584,BBC,Unknown,851,172,151,Real,1/25/2023 8:00
+Title 585,Text content 585,Fox,Unknown,150,227,34,Fake,1/25/2023 9:00
+Title 586,Text content 586,BBC,Author B,383,349,183,Fake,1/25/2023 10:00
+Title 587,Text content 587,Fox,Author B,637,182,29,Fake,1/25/2023 11:00
+Title 588,Text content 588,FakeNews,Unknown,812,112,56,Fake,1/25/2023 12:00
+Title 589,Text content 589,CNN,Author B,307,182,46,Fake,1/25/2023 13:00
+Title 590,Text content 590,CNN,Author B,335,480,162,Real,1/25/2023 14:00
+Title 591,Text content 591,FakeNews,Author A,945,145,18,Real,1/25/2023 15:00
+Title 592,Text content 592,CNN,Unknown,745,318,113,Fake,1/25/2023 16:00
+Title 593,Text content 593,FakeNews,Unknown,891,115,7,Real,1/25/2023 17:00
+Title 594,Text content 594,FakeNews,Author B,374,112,25,Real,1/25/2023 18:00
+Title 595,Text content 595,FakeNews,Unknown,7,250,112,Real,1/25/2023 19:00
+Title 596,Text content 596,CNN,Author A,340,475,70,Fake,1/25/2023 20:00
+Title 597,Text content 597,Fox,Author A,128,250,29,Real,1/25/2023 21:00
+Title 598,Text content 598,FakeNews,Author A,775,302,134,Real,1/25/2023 22:00
+Title 599,Text content 599,BBC,Unknown,668,458,66,Real,1/25/2023 23:00
+Title 600,Text content 600,CNN,Unknown,351,312,64,Fake,1/26/2023 0:00
+Title 601,Text content 601,FakeNews,Unknown,357,117,35,Real,1/26/2023 1:00
+Title 602,Text content 602,FakeNews,Unknown,516,300,24,Real,1/26/2023 2:00
+Title 603,Text content 603,BBC,Unknown,494,160,36,Fake,1/26/2023 3:00
+Title 604,Text content 604,Fox,Author A,85,400,0,Fake,1/26/2023 4:00
+Title 605,Text content 605,Fox,Author B,174,197,142,Real,1/26/2023 5:00
+Title 606,Text content 606,Fox,Author A,801,259,36,Real,1/26/2023 6:00
+Title 607,Text content 607,FakeNews,Unknown,192,147,140,Fake,1/26/2023 7:00
+Title 608,Text content 608,FakeNews,Author A,310,239,135,Fake,1/26/2023 8:00
+Title 609,Text content 609,FakeNews,Unknown,118,46,132,Fake,1/26/2023 9:00
+Title 610,Text content 610,CNN,Unknown,217,474,187,Fake,1/26/2023 10:00
+Title 611,Text content 611,BBC,Author A,426,398,127,Fake,1/26/2023 11:00
+Title 612,Text content 612,FakeNews,Unknown,969,197,126,Fake,1/26/2023 12:00
+Title 613,Text content 613,BBC,Author B,413,46,0,Fake,1/26/2023 13:00
+Title 614,Text content 614,BBC,Unknown,113,77,163,Real,1/26/2023 14:00
+Title 615,Text content 615,Fox,Author B,977,123,34,Fake,1/26/2023 15:00
+Title 616,Text content 616,CNN,Author B,144,74,193,Fake,1/26/2023 16:00
+Title 617,Text content 617,FakeNews,Unknown,537,358,190,Real,1/26/2023 17:00
+Title 618,Text content 618,Fox,Author A,647,136,103,Fake,1/26/2023 18:00
+Title 619,Text content 619,Fox,Author B,302,89,22,Fake,1/26/2023 19:00
+Title 620,Text content 620,FakeNews,Author A,743,399,8,Real,1/26/2023 20:00
+Title 621,Text content 621,BBC,Author B,880,324,33,Fake,1/26/2023 21:00
+Title 622,Text content 622,Fox,Unknown,587,499,173,Real,1/26/2023 22:00
+Title 623,Text content 623,BBC,Unknown,986,60,127,Real,1/26/2023 23:00
+Title 624,Text content 624,CNN,Author B,839,137,3,Real,1/27/2023 0:00
+Title 625,Text content 625,BBC,Unknown,344,49,157,Real,1/27/2023 1:00
+Title 626,Text content 626,CNN,Author B,813,258,101,Fake,1/27/2023 2:00
+Title 627,Text content 627,BBC,Unknown,963,460,74,Real,1/27/2023 3:00
+Title 628,Text content 628,Fox,Author A,800,106,98,Real,1/27/2023 4:00
+Title 629,Text content 629,Fox,Unknown,0,112,71,Fake,1/27/2023 5:00
+Title 630,Text content 630,CNN,Author A,146,349,2,Real,1/27/2023 6:00
+Title 631,Text content 631,FakeNews,Unknown,286,253,141,Real,1/27/2023 7:00
+Title 632,Text content 632,CNN,Author A,975,117,187,Real,1/27/2023 8:00
+Title 633,Text content 633,CNN,Unknown,653,492,172,Real,1/27/2023 9:00
+Title 634,Text content 634,BBC,Author A,52,197,33,Fake,1/27/2023 10:00
+Title 635,Text content 635,BBC,Author B,303,336,44,Real,1/27/2023 11:00
+Title 636,Text content 636,CNN,Author B,68,364,60,Fake,1/27/2023 12:00
+Title 637,Text content 637,Fox,Author A,360,50,82,Fake,1/27/2023 13:00
+Title 638,Text content 638,BBC,Unknown,601,244,122,Real,1/27/2023 14:00
+Title 639,Text content 639,FakeNews,Author A,957,402,101,Real,1/27/2023 15:00
+Title 640,Text content 640,BBC,Unknown,219,425,15,Real,1/27/2023 16:00
+Title 641,Text content 641,BBC,Author B,961,34,65,Real,1/27/2023 17:00
+Title 642,Text content 642,FakeNews,Unknown,703,301,167,Fake,1/27/2023 18:00
+Title 643,Text content 643,CNN,Author B,965,409,144,Fake,1/27/2023 19:00
+Title 644,Text content 644,FakeNews,Unknown,574,498,118,Fake,1/27/2023 20:00
+Title 645,Text content 645,CNN,Unknown,584,68,161,Real,1/27/2023 21:00
+Title 646,Text content 646,CNN,Unknown,160,348,123,Fake,1/27/2023 22:00
+Title 647,Text content 647,CNN,Author A,680,319,143,Real,1/27/2023 23:00
+Title 648,Text content 648,FakeNews,Author A,88,420,101,Real,1/28/2023 0:00
+Title 649,Text content 649,CNN,Author B,687,467,187,Real,1/28/2023 1:00
+Title 650,Text content 650,Fox,Author B,780,48,65,Real,1/28/2023 2:00
+Title 651,Text content 651,FakeNews,Author A,584,404,193,Real,1/28/2023 3:00
+Title 652,Text content 652,Fox,Author B,756,73,12,Fake,1/28/2023 4:00
+Title 653,Text content 653,CNN,Author A,588,191,183,Fake,1/28/2023 5:00
+Title 654,Text content 654,BBC,Unknown,158,260,110,Real,1/28/2023 6:00
+Title 655,Text content 655,CNN,Author B,488,355,158,Fake,1/28/2023 7:00
+Title 656,Text content 656,Fox,Author B,970,69,33,Real,1/28/2023 8:00
+Title 657,Text content 657,Fox,Author A,323,89,38,Real,1/28/2023 9:00
+Title 658,Text content 658,FakeNews,Author B,609,259,194,Real,1/28/2023 10:00
+Title 659,Text content 659,BBC,Author B,380,125,135,Fake,1/28/2023 11:00
+Title 660,Text content 660,FakeNews,Unknown,101,230,119,Real,1/28/2023 12:00
+Title 661,Text content 661,Fox,Author B,493,294,125,Real,1/28/2023 13:00
+Title 662,Text content 662,CNN,Unknown,643,497,54,Fake,1/28/2023 14:00
+Title 663,Text content 663,BBC,Author A,613,418,26,Fake,1/28/2023 15:00
+Title 664,Text content 664,CNN,Author B,18,128,117,Fake,1/28/2023 16:00
+Title 665,Text content 665,CNN,Unknown,453,279,52,Real,1/28/2023 17:00
+Title 666,Text content 666,BBC,Author A,481,312,38,Real,1/28/2023 18:00
+Title 667,Text content 667,FakeNews,Author B,593,99,64,Fake,1/28/2023 19:00
+Title 668,Text content 668,CNN,Author A,396,325,144,Real,1/28/2023 20:00
+Title 669,Text content 669,Fox,Author B,278,296,157,Fake,1/28/2023 21:00
+Title 670,Text content 670,CNN,Author A,850,181,180,Fake,1/28/2023 22:00
+Title 671,Text content 671,BBC,Author A,364,173,12,Real,1/28/2023 23:00
+Title 672,Text content 672,BBC,Unknown,330,315,20,Real,1/29/2023 0:00
+Title 673,Text content 673,BBC,Author A,640,363,146,Fake,1/29/2023 1:00
+Title 674,Text content 674,FakeNews,Author B,343,187,52,Fake,1/29/2023 2:00
+Title 675,Text content 675,CNN,Author B,821,56,18,Fake,1/29/2023 3:00
+Title 676,Text content 676,FakeNews,Unknown,454,30,56,Fake,1/29/2023 4:00
+Title 677,Text content 677,FakeNews,Author B,600,83,24,Real,1/29/2023 5:00
+Title 678,Text content 678,BBC,Author B,724,151,30,Fake,1/29/2023 6:00
+Title 679,Text content 679,BBC,Author B,654,472,80,Fake,1/29/2023 7:00
+Title 680,Text content 680,FakeNews,Author A,64,35,182,Fake,1/29/2023 8:00
+Title 681,Text content 681,CNN,Author A,75,212,22,Real,1/29/2023 9:00
+Title 682,Text content 682,Fox,Author B,710,413,31,Real,1/29/2023 10:00
+Title 683,Text content 683,FakeNews,Unknown,142,407,189,Fake,1/29/2023 11:00
+Title 684,Text content 684,CNN,Author A,916,363,73,Real,1/29/2023 12:00
+Title 685,Text content 685,BBC,Unknown,914,105,9,Real,1/29/2023 13:00
+Title 686,Text content 686,BBC,Author B,827,413,199,Real,1/29/2023 14:00
+Title 687,Text content 687,CNN,Author B,604,341,53,Fake,1/29/2023 15:00
+Title 688,Text content 688,Fox,Author A,472,219,51,Fake,1/29/2023 16:00
+Title 689,Text content 689,BBC,Author B,416,390,147,Real,1/29/2023 17:00
+Title 690,Text content 690,BBC,Author A,304,162,159,Fake,1/29/2023 18:00
+Title 691,Text content 691,BBC,Author B,735,438,113,Fake,1/29/2023 19:00
+Title 692,Text content 692,CNN,Author B,496,219,13,Real,1/29/2023 20:00
+Title 693,Text content 693,FakeNews,Author A,290,269,177,Real,1/29/2023 21:00
+Title 694,Text content 694,BBC,Author A,939,119,155,Fake,1/29/2023 22:00
+Title 695,Text content 695,FakeNews,Author A,101,393,109,Real,1/29/2023 23:00
+Title 696,Text content 696,Fox,Author B,985,335,52,Fake,1/30/2023 0:00
+Title 697,Text content 697,BBC,Author B,266,399,151,Fake,1/30/2023 1:00
+Title 698,Text content 698,BBC,Unknown,866,181,78,Real,1/30/2023 2:00
+Title 699,Text content 699,Fox,Author A,967,478,21,Fake,1/30/2023 3:00
+Title 700,Text content 700,BBC,Author B,621,105,29,Fake,1/30/2023 4:00
+Title 701,Text content 701,FakeNews,Author B,973,216,190,Real,1/30/2023 5:00
+Title 702,Text content 702,CNN,Author A,841,204,3,Real,1/30/2023 6:00
+Title 703,Text content 703,FakeNews,Unknown,961,69,58,Real,1/30/2023 7:00
+Title 704,Text content 704,CNN,Author A,941,43,7,Fake,1/30/2023 8:00
+Title 705,Text content 705,CNN,Unknown,776,328,11,Real,1/30/2023 9:00
+Title 706,Text content 706,FakeNews,Author B,2,300,118,Real,1/30/2023 10:00
+Title 707,Text content 707,FakeNews,Unknown,84,227,158,Real,1/30/2023 11:00
+Title 708,Text content 708,FakeNews,Author B,793,183,33,Real,1/30/2023 12:00
+Title 709,Text content 709,FakeNews,Author A,327,106,81,Fake,1/30/2023 13:00
+Title 710,Text content 710,Fox,Author A,815,83,97,Fake,1/30/2023 14:00
+Title 711,Text content 711,BBC,Author A,449,337,126,Real,1/30/2023 15:00
+Title 712,Text content 712,CNN,Unknown,453,249,74,Fake,1/30/2023 16:00
+Title 713,Text content 713,FakeNews,Author B,923,362,104,Real,1/30/2023 17:00
+Title 714,Text content 714,FakeNews,Author A,628,440,48,Real,1/30/2023 18:00
+Title 715,Text content 715,FakeNews,Author A,220,20,78,Fake,1/30/2023 19:00
+Title 716,Text content 716,Fox,Author B,153,195,184,Fake,1/30/2023 20:00
+Title 717,Text content 717,FakeNews,Author A,664,177,92,Real,1/30/2023 21:00
+Title 718,Text content 718,FakeNews,Author B,11,416,153,Real,1/30/2023 22:00
+Title 719,Text content 719,FakeNews,Author B,132,474,17,Fake,1/30/2023 23:00
+Title 720,Text content 720,BBC,Author B,993,6,95,Real,1/31/2023 0:00
+Title 721,Text content 721,Fox,Author B,303,69,37,Fake,1/31/2023 1:00
+Title 722,Text content 722,FakeNews,Author B,292,126,86,Real,1/31/2023 2:00
+Title 723,Text content 723,CNN,Unknown,974,398,87,Real,1/31/2023 3:00
+Title 724,Text content 724,CNN,Author A,299,465,49,Fake,1/31/2023 4:00
+Title 725,Text content 725,CNN,Unknown,739,159,7,Fake,1/31/2023 5:00
+Title 726,Text content 726,Fox,Author A,782,247,168,Fake,1/31/2023 6:00
+Title 727,Text content 727,Fox,Unknown,42,202,133,Fake,1/31/2023 7:00
+Title 728,Text content 728,CNN,Author B,943,147,68,Fake,1/31/2023 8:00
+Title 729,Text content 729,FakeNews,Author A,342,471,171,Fake,1/31/2023 9:00
+Title 730,Text content 730,Fox,Author A,325,142,120,Fake,1/31/2023 10:00
+Title 731,Text content 731,CNN,Unknown,813,431,63,Real,1/31/2023 11:00
+Title 732,Text content 732,CNN,Unknown,497,198,156,Real,1/31/2023 12:00
+Title 733,Text content 733,FakeNews,Author A,363,404,155,Real,1/31/2023 13:00
+Title 734,Text content 734,BBC,Unknown,890,425,138,Fake,1/31/2023 14:00
+Title 735,Text content 735,Fox,Unknown,426,153,120,Fake,1/31/2023 15:00
+Title 736,Text content 736,FakeNews,Unknown,20,491,64,Fake,1/31/2023 16:00
+Title 737,Text content 737,CNN,Author B,406,375,106,Real,1/31/2023 17:00
+Title 738,Text content 738,CNN,Author B,618,383,146,Fake,1/31/2023 18:00
+Title 739,Text content 739,FakeNews,Unknown,335,141,136,Fake,1/31/2023 19:00
+Title 740,Text content 740,Fox,Unknown,814,312,154,Real,1/31/2023 20:00
+Title 741,Text content 741,BBC,Author B,116,164,161,Fake,1/31/2023 21:00
+Title 742,Text content 742,BBC,Author B,123,313,171,Real,1/31/2023 22:00
+Title 743,Text content 743,CNN,Author A,398,20,195,Real,1/31/2023 23:00
+Title 744,Text content 744,Fox,Author A,792,81,99,Fake,2/1/2023 0:00
+Title 745,Text content 745,BBC,Author B,803,68,81,Fake,2/1/2023 1:00
+Title 746,Text content 746,Fox,Unknown,714,130,142,Fake,2/1/2023 2:00
+Title 747,Text content 747,Fox,Unknown,50,86,50,Real,2/1/2023 3:00
+Title 748,Text content 748,CNN,Unknown,782,217,140,Real,2/1/2023 4:00
+Title 749,Text content 749,BBC,Unknown,323,420,82,Real,2/1/2023 5:00
+Title 750,Text content 750,FakeNews,Author A,788,471,176,Fake,2/1/2023 6:00
+Title 751,Text content 751,CNN,Author B,140,304,197,Fake,2/1/2023 7:00
+Title 752,Text content 752,BBC,Unknown,469,402,111,Fake,2/1/2023 8:00
+Title 753,Text content 753,BBC,Author A,786,370,55,Fake,2/1/2023 9:00
+Title 754,Text content 754,BBC,Unknown,801,344,178,Real,2/1/2023 10:00
+Title 755,Text content 755,BBC,Author B,333,340,164,Real,2/1/2023 11:00
+Title 756,Text content 756,BBC,Author A,892,383,144,Real,2/1/2023 12:00
+Title 757,Text content 757,Fox,Author B,963,395,185,Real,2/1/2023 13:00
+Title 758,Text content 758,CNN,Author B,372,444,156,Fake,2/1/2023 14:00
+Title 759,Text content 759,Fox,Author A,563,424,160,Fake,2/1/2023 15:00
+Title 760,Text content 760,FakeNews,Author A,493,160,59,Fake,2/1/2023 16:00
+Title 761,Text content 761,BBC,Author A,538,177,119,Real,2/1/2023 17:00
+Title 762,Text content 762,CNN,Author A,668,116,182,Real,2/1/2023 18:00
+Title 763,Text content 763,BBC,Author A,750,195,137,Fake,2/1/2023 19:00
+Title 764,Text content 764,CNN,Author A,155,382,174,Fake,2/1/2023 20:00
+Title 765,Text content 765,Fox,Author A,290,489,22,Real,2/1/2023 21:00
+Title 766,Text content 766,CNN,Unknown,647,326,148,Fake,2/1/2023 22:00
+Title 767,Text content 767,FakeNews,Author B,143,85,12,Real,2/1/2023 23:00
+Title 768,Text content 768,FakeNews,Author A,105,288,100,Real,2/2/2023 0:00
+Title 769,Text content 769,CNN,Unknown,419,80,160,Real,2/2/2023 1:00
+Title 770,Text content 770,CNN,Unknown,669,151,23,Fake,2/2/2023 2:00
+Title 771,Text content 771,CNN,Unknown,657,60,107,Fake,2/2/2023 3:00
+Title 772,Text content 772,CNN,Author B,1,60,10,Real,2/2/2023 4:00
+Title 773,Text content 773,FakeNews,Author A,944,353,16,Fake,2/2/2023 5:00
+Title 774,Text content 774,BBC,Unknown,588,27,195,Real,2/2/2023 6:00
+Title 775,Text content 775,CNN,Author B,643,441,174,Real,2/2/2023 7:00
+Title 776,Text content 776,CNN,Author B,89,42,24,Real,2/2/2023 8:00
+Title 777,Text content 777,FakeNews,Author B,344,168,93,Real,2/2/2023 9:00
+Title 778,Text content 778,FakeNews,Unknown,349,422,20,Fake,2/2/2023 10:00
+Title 779,Text content 779,Fox,Author A,458,85,83,Real,2/2/2023 11:00
+Title 780,Text content 780,CNN,Unknown,262,176,139,Real,2/2/2023 12:00
+Title 781,Text content 781,Fox,Unknown,350,16,36,Fake,2/2/2023 13:00
+Title 782,Text content 782,FakeNews,Author A,107,97,41,Real,2/2/2023 14:00
+Title 783,Text content 783,FakeNews,Author A,585,453,144,Real,2/2/2023 15:00
+Title 784,Text content 784,BBC,Author A,38,493,100,Fake,2/2/2023 16:00
+Title 785,Text content 785,CNN,Author B,908,197,47,Fake,2/2/2023 17:00
+Title 786,Text content 786,Fox,Author A,158,97,102,Fake,2/2/2023 18:00
+Title 787,Text content 787,FakeNews,Unknown,582,64,27,Real,2/2/2023 19:00
+Title 788,Text content 788,FakeNews,Author A,958,329,40,Fake,2/2/2023 20:00
+Title 789,Text content 789,Fox,Unknown,311,340,98,Fake,2/2/2023 21:00
+Title 790,Text content 790,BBC,Author B,240,4,46,Real,2/2/2023 22:00
+Title 791,Text content 791,FakeNews,Unknown,937,1,145,Real,2/2/2023 23:00
+Title 792,Text content 792,CNN,Unknown,444,21,104,Real,2/3/2023 0:00
+Title 793,Text content 793,FakeNews,Author A,297,111,123,Real,2/3/2023 1:00
+Title 794,Text content 794,CNN,Author A,951,56,198,Real,2/3/2023 2:00
+Title 795,Text content 795,Fox,Unknown,35,65,12,Fake,2/3/2023 3:00
+Title 796,Text content 796,CNN,Author A,83,329,140,Fake,2/3/2023 4:00
+Title 797,Text content 797,Fox,Author B,451,97,99,Fake,2/3/2023 5:00
+Title 798,Text content 798,CNN,Author B,885,143,30,Real,2/3/2023 6:00
+Title 799,Text content 799,Fox,Author A,774,367,129,Real,2/3/2023 7:00
+Title 800,Text content 800,CNN,Author B,821,434,15,Real,2/3/2023 8:00
+Title 801,Text content 801,BBC,Author A,384,124,136,Fake,2/3/2023 9:00
+Title 802,Text content 802,CNN,Unknown,171,166,72,Fake,2/3/2023 10:00
+Title 803,Text content 803,CNN,Unknown,375,85,165,Real,2/3/2023 11:00
+Title 804,Text content 804,BBC,Author B,684,75,53,Fake,2/3/2023 12:00
+Title 805,Text content 805,FakeNews,Author A,361,343,183,Real,2/3/2023 13:00
+Title 806,Text content 806,FakeNews,Author A,558,494,99,Fake,2/3/2023 14:00
+Title 807,Text content 807,CNN,Author B,890,423,108,Fake,2/3/2023 15:00
+Title 808,Text content 808,BBC,Unknown,140,293,86,Fake,2/3/2023 16:00
+Title 809,Text content 809,CNN,Author B,886,443,172,Real,2/3/2023 17:00
+Title 810,Text content 810,Fox,Unknown,917,58,161,Fake,2/3/2023 18:00
+Title 811,Text content 811,Fox,Author A,117,137,136,Fake,2/3/2023 19:00
+Title 812,Text content 812,CNN,Unknown,276,98,7,Real,2/3/2023 20:00
+Title 813,Text content 813,FakeNews,Author B,725,191,6,Fake,2/3/2023 21:00
+Title 814,Text content 814,FakeNews,Author A,219,242,35,Real,2/3/2023 22:00
+Title 815,Text content 815,CNN,Author B,904,318,17,Real,2/3/2023 23:00
+Title 816,Text content 816,CNN,Author B,25,48,2,Real,2/4/2023 0:00
+Title 817,Text content 817,Fox,Unknown,520,447,27,Real,2/4/2023 1:00
+Title 818,Text content 818,FakeNews,Author B,782,31,69,Real,2/4/2023 2:00
+Title 819,Text content 819,CNN,Unknown,9,390,171,Fake,2/4/2023 3:00
+Title 820,Text content 820,Fox,Author A,983,276,148,Real,2/4/2023 4:00
+Title 821,Text content 821,FakeNews,Unknown,377,19,27,Real,2/4/2023 5:00
+Title 822,Text content 822,BBC,Author A,632,153,53,Real,2/4/2023 6:00
+Title 823,Text content 823,Fox,Unknown,636,382,181,Real,2/4/2023 7:00
+Title 824,Text content 824,FakeNews,Author B,681,67,64,Fake,2/4/2023 8:00
+Title 825,Text content 825,FakeNews,Unknown,583,365,99,Real,2/4/2023 9:00
+Title 826,Text content 826,Fox,Unknown,151,371,20,Fake,2/4/2023 10:00
+Title 827,Text content 827,BBC,Author A,719,213,12,Real,2/4/2023 11:00
+Title 828,Text content 828,Fox,Author B,48,142,56,Fake,2/4/2023 12:00
+Title 829,Text content 829,FakeNews,Unknown,153,375,48,Real,2/4/2023 13:00
+Title 830,Text content 830,CNN,Author B,858,231,117,Real,2/4/2023 14:00
+Title 831,Text content 831,CNN,Unknown,292,212,53,Fake,2/4/2023 15:00
+Title 832,Text content 832,Fox,Unknown,579,78,137,Real,2/4/2023 16:00
+Title 833,Text content 833,FakeNews,Author B,49,213,52,Fake,2/4/2023 17:00
+Title 834,Text content 834,CNN,Unknown,663,115,43,Real,2/4/2023 18:00
+Title 835,Text content 835,FakeNews,Author B,530,91,46,Fake,2/4/2023 19:00
+Title 836,Text content 836,Fox,Unknown,611,269,52,Real,2/4/2023 20:00
+Title 837,Text content 837,CNN,Author A,59,410,73,Real,2/4/2023 21:00
+Title 838,Text content 838,FakeNews,Author B,166,380,45,Fake,2/4/2023 22:00
+Title 839,Text content 839,CNN,Unknown,201,488,12,Real,2/4/2023 23:00
+Title 840,Text content 840,Fox,Unknown,856,167,164,Real,2/5/2023 0:00
+Title 841,Text content 841,FakeNews,Author A,145,57,101,Real,2/5/2023 1:00
+Title 842,Text content 842,CNN,Author B,914,283,23,Real,2/5/2023 2:00
+Title 843,Text content 843,Fox,Unknown,675,25,1,Real,2/5/2023 3:00
+Title 844,Text content 844,CNN,Author A,969,368,80,Real,2/5/2023 4:00
+Title 845,Text content 845,CNN,Unknown,992,446,99,Fake,2/5/2023 5:00
+Title 846,Text content 846,BBC,Author B,438,65,141,Fake,2/5/2023 6:00
+Title 847,Text content 847,BBC,Unknown,241,408,137,Fake,2/5/2023 7:00
+Title 848,Text content 848,Fox,Unknown,580,247,162,Real,2/5/2023 8:00
+Title 849,Text content 849,BBC,Unknown,686,253,152,Fake,2/5/2023 9:00
+Title 850,Text content 850,Fox,Unknown,560,386,130,Real,2/5/2023 10:00
+Title 851,Text content 851,BBC,Author A,482,455,110,Real,2/5/2023 11:00
+Title 852,Text content 852,CNN,Author A,107,43,101,Real,2/5/2023 12:00
+Title 853,Text content 853,Fox,Author B,225,96,16,Real,2/5/2023 13:00
+Title 854,Text content 854,Fox,Author A,672,41,11,Fake,2/5/2023 14:00
+Title 855,Text content 855,CNN,Author A,630,499,181,Real,2/5/2023 15:00
+Title 856,Text content 856,Fox,Author B,660,226,115,Fake,2/5/2023 16:00
+Title 857,Text content 857,Fox,Author A,976,261,23,Real,2/5/2023 17:00
+Title 858,Text content 858,BBC,Author A,661,166,28,Fake,2/5/2023 18:00
+Title 859,Text content 859,Fox,Author B,431,435,170,Fake,2/5/2023 19:00
+Title 860,Text content 860,FakeNews,Author B,804,278,152,Fake,2/5/2023 20:00
+Title 861,Text content 861,CNN,Author B,654,88,121,Fake,2/5/2023 21:00
+Title 862,Text content 862,BBC,Unknown,418,378,187,Fake,2/5/2023 22:00
+Title 863,Text content 863,BBC,Unknown,987,177,89,Fake,2/5/2023 23:00
+Title 864,Text content 864,FakeNews,Author B,454,426,64,Real,2/6/2023 0:00
+Title 865,Text content 865,CNN,Author B,159,402,83,Fake,2/6/2023 1:00
+Title 866,Text content 866,CNN,Author B,522,196,118,Real,2/6/2023 2:00
+Title 867,Text content 867,BBC,Unknown,649,306,155,Fake,2/6/2023 3:00
+Title 868,Text content 868,Fox,Unknown,968,266,15,Real,2/6/2023 4:00
+Title 869,Text content 869,BBC,Author A,589,267,174,Fake,2/6/2023 5:00
+Title 870,Text content 870,CNN,Author A,76,73,103,Fake,2/6/2023 6:00
+Title 871,Text content 871,FakeNews,Author B,508,7,91,Real,2/6/2023 7:00
+Title 872,Text content 872,BBC,Unknown,440,407,185,Fake,2/6/2023 8:00
+Title 873,Text content 873,CNN,Unknown,253,475,26,Fake,2/6/2023 9:00
+Title 874,Text content 874,BBC,Unknown,920,296,180,Fake,2/6/2023 10:00
+Title 875,Text content 875,Fox,Author B,769,163,169,Real,2/6/2023 11:00
+Title 876,Text content 876,BBC,Author A,319,484,186,Fake,2/6/2023 12:00
+Title 877,Text content 877,BBC,Author B,802,84,174,Real,2/6/2023 13:00
+Title 878,Text content 878,CNN,Author A,262,71,161,Fake,2/6/2023 14:00
+Title 879,Text content 879,CNN,Author A,596,54,164,Fake,2/6/2023 15:00
+Title 880,Text content 880,CNN,Author B,657,392,133,Real,2/6/2023 16:00
+Title 881,Text content 881,BBC,Author A,834,46,134,Fake,2/6/2023 17:00
+Title 882,Text content 882,Fox,Author A,553,398,152,Fake,2/6/2023 18:00
+Title 883,Text content 883,FakeNews,Unknown,373,431,32,Real,2/6/2023 19:00
+Title 884,Text content 884,FakeNews,Author A,636,237,54,Fake,2/6/2023 20:00
+Title 885,Text content 885,CNN,Author B,166,103,185,Real,2/6/2023 21:00
+Title 886,Text content 886,CNN,Author B,936,209,6,Real,2/6/2023 22:00
+Title 887,Text content 887,BBC,Author A,752,41,56,Real,2/6/2023 23:00
+Title 888,Text content 888,FakeNews,Unknown,458,315,125,Fake,2/7/2023 0:00
+Title 889,Text content 889,CNN,Unknown,998,467,11,Real,2/7/2023 1:00
+Title 890,Text content 890,Fox,Author A,279,453,15,Real,2/7/2023 2:00
+Title 891,Text content 891,Fox,Author A,699,267,42,Fake,2/7/2023 3:00
+Title 892,Text content 892,CNN,Author B,301,385,116,Real,2/7/2023 4:00
+Title 893,Text content 893,CNN,Author A,530,262,134,Fake,2/7/2023 5:00
+Title 894,Text content 894,FakeNews,Unknown,579,335,110,Fake,2/7/2023 6:00
+Title 895,Text content 895,FakeNews,Author A,217,386,50,Fake,2/7/2023 7:00
+Title 896,Text content 896,BBC,Author B,101,364,159,Fake,2/7/2023 8:00
+Title 897,Text content 897,FakeNews,Author B,553,258,74,Real,2/7/2023 9:00
+Title 898,Text content 898,Fox,Author B,287,282,7,Real,2/7/2023 10:00
+Title 899,Text content 899,Fox,Author B,166,113,199,Real,2/7/2023 11:00
+Title 900,Text content 900,CNN,Author B,620,362,44,Real,2/7/2023 12:00
+Title 901,Text content 901,FakeNews,Author A,35,39,58,Real,2/7/2023 13:00
+Title 902,Text content 902,BBC,Author A,743,485,131,Fake,2/7/2023 14:00
+Title 903,Text content 903,Fox,Author A,740,416,103,Real,2/7/2023 15:00
+Title 904,Text content 904,Fox,Author A,352,219,194,Real,2/7/2023 16:00
+Title 905,Text content 905,BBC,Author B,675,128,156,Real,2/7/2023 17:00
+Title 906,Text content 906,BBC,Unknown,898,7,156,Fake,2/7/2023 18:00
+Title 907,Text content 907,Fox,Author A,72,100,97,Fake,2/7/2023 19:00
+Title 908,Text content 908,Fox,Unknown,647,415,155,Real,2/7/2023 20:00
+Title 909,Text content 909,BBC,Author A,352,379,78,Fake,2/7/2023 21:00
+Title 910,Text content 910,Fox,Author A,890,175,123,Real,2/7/2023 22:00
+Title 911,Text content 911,CNN,Unknown,69,106,171,Real,2/7/2023 23:00
+Title 912,Text content 912,CNN,Author B,424,100,3,Fake,2/8/2023 0:00
+Title 913,Text content 913,BBC,Author A,998,259,89,Fake,2/8/2023 1:00
+Title 914,Text content 914,FakeNews,Author A,707,477,103,Real,2/8/2023 2:00
+Title 915,Text content 915,BBC,Author A,780,453,136,Real,2/8/2023 3:00
+Title 916,Text content 916,BBC,Unknown,560,365,118,Fake,2/8/2023 4:00
+Title 917,Text content 917,FakeNews,Author B,827,245,132,Real,2/8/2023 5:00
+Title 918,Text content 918,FakeNews,Unknown,641,274,55,Fake,2/8/2023 6:00
+Title 919,Text content 919,FakeNews,Unknown,955,31,95,Real,2/8/2023 7:00
+Title 920,Text content 920,CNN,Author B,516,136,177,Fake,2/8/2023 8:00
+Title 921,Text content 921,Fox,Unknown,427,11,74,Real,2/8/2023 9:00
+Title 922,Text content 922,CNN,Author B,538,394,142,Real,2/8/2023 10:00
+Title 923,Text content 923,Fox,Author A,159,301,31,Fake,2/8/2023 11:00
+Title 924,Text content 924,CNN,Author B,148,374,27,Real,2/8/2023 12:00
+Title 925,Text content 925,Fox,Author A,775,15,21,Real,2/8/2023 13:00
+Title 926,Text content 926,CNN,Unknown,229,128,16,Fake,2/8/2023 14:00
+Title 927,Text content 927,FakeNews,Unknown,711,62,58,Real,2/8/2023 15:00
+Title 928,Text content 928,BBC,Author A,561,108,89,Real,2/8/2023 16:00
+Title 929,Text content 929,CNN,Unknown,66,374,198,Real,2/8/2023 17:00
+Title 930,Text content 930,Fox,Author B,811,20,105,Fake,2/8/2023 18:00
+Title 931,Text content 931,FakeNews,Author A,380,157,184,Fake,2/8/2023 19:00
+Title 932,Text content 932,CNN,Unknown,57,268,25,Fake,2/8/2023 20:00
+Title 933,Text content 933,CNN,Author A,258,161,24,Real,2/8/2023 21:00
+Title 934,Text content 934,FakeNews,Author B,341,259,137,Real,2/8/2023 22:00
+Title 935,Text content 935,CNN,Author B,837,411,44,Real,2/8/2023 23:00
+Title 936,Text content 936,BBC,Unknown,129,101,82,Real,2/9/2023 0:00
+Title 937,Text content 937,CNN,Author B,726,222,10,Fake,2/9/2023 1:00
+Title 938,Text content 938,BBC,Author A,171,58,180,Real,2/9/2023 2:00
+Title 939,Text content 939,BBC,Author B,769,246,199,Real,2/9/2023 3:00
+Title 940,Text content 940,FakeNews,Author A,613,127,103,Real,2/9/2023 4:00
+Title 941,Text content 941,CNN,Author A,208,282,67,Fake,2/9/2023 5:00
+Title 942,Text content 942,FakeNews,Author B,802,324,94,Real,2/9/2023 6:00
+Title 943,Text content 943,CNN,Unknown,353,24,155,Real,2/9/2023 7:00
+Title 944,Text content 944,CNN,Author B,470,130,64,Real,2/9/2023 8:00
+Title 945,Text content 945,Fox,Author A,797,352,48,Real,2/9/2023 9:00
+Title 946,Text content 946,CNN,Author A,115,195,174,Real,2/9/2023 10:00
+Title 947,Text content 947,FakeNews,Author B,263,280,51,Fake,2/9/2023 11:00
+Title 948,Text content 948,BBC,Unknown,661,403,101,Real,2/9/2023 12:00
+Title 949,Text content 949,CNN,Unknown,811,417,181,Real,2/9/2023 13:00
+Title 950,Text content 950,Fox,Author A,441,153,187,Real,2/9/2023 14:00
+Title 951,Text content 951,FakeNews,Author A,547,381,56,Real,2/9/2023 15:00
+Title 952,Text content 952,CNN,Unknown,452,132,46,Real,2/9/2023 16:00
+Title 953,Text content 953,FakeNews,Author B,844,226,158,Real,2/9/2023 17:00
+Title 954,Text content 954,Fox,Author A,476,188,173,Real,2/9/2023 18:00
+Title 955,Text content 955,Fox,Author A,286,475,25,Real,2/9/2023 19:00
+Title 956,Text content 956,FakeNews,Unknown,302,476,113,Real,2/9/2023 20:00
+Title 957,Text content 957,CNN,Author B,310,264,4,Real,2/9/2023 21:00
+Title 958,Text content 958,BBC,Unknown,207,371,83,Fake,2/9/2023 22:00
+Title 959,Text content 959,Fox,Author B,617,485,51,Fake,2/9/2023 23:00
+Title 960,Text content 960,CNN,Author B,445,433,104,Fake,2/10/2023 0:00
+Title 961,Text content 961,CNN,Author B,669,133,53,Fake,2/10/2023 1:00
+Title 962,Text content 962,BBC,Author A,632,210,160,Real,2/10/2023 2:00
+Title 963,Text content 963,Fox,Unknown,54,59,177,Fake,2/10/2023 3:00
+Title 964,Text content 964,Fox,Unknown,911,427,165,Fake,2/10/2023 4:00
+Title 965,Text content 965,CNN,Author B,11,376,154,Real,2/10/2023 5:00
+Title 966,Text content 966,CNN,Author A,656,394,14,Fake,2/10/2023 6:00
+Title 967,Text content 967,BBC,Author A,399,449,60,Fake,2/10/2023 7:00
+Title 968,Text content 968,BBC,Unknown,907,430,121,Real,2/10/2023 8:00
+Title 969,Text content 969,Fox,Author A,647,363,20,Real,2/10/2023 9:00
+Title 970,Text content 970,FakeNews,Author A,979,363,45,Real,2/10/2023 10:00
+Title 971,Text content 971,Fox,Author B,514,456,196,Fake,2/10/2023 11:00
+Title 972,Text content 972,CNN,Author A,655,212,133,Fake,2/10/2023 12:00
+Title 973,Text content 973,Fox,Author B,541,215,37,Real,2/10/2023 13:00
+Title 974,Text content 974,FakeNews,Unknown,236,225,61,Real,2/10/2023 14:00
+Title 975,Text content 975,BBC,Author A,278,469,85,Fake,2/10/2023 15:00
+Title 976,Text content 976,FakeNews,Unknown,347,130,189,Real,2/10/2023 16:00
+Title 977,Text content 977,FakeNews,Unknown,626,75,77,Fake,2/10/2023 17:00
+Title 978,Text content 978,FakeNews,Author A,103,475,45,Real,2/10/2023 18:00
+Title 979,Text content 979,BBC,Author A,629,285,140,Real,2/10/2023 19:00
+Title 980,Text content 980,FakeNews,Unknown,516,473,2,Fake,2/10/2023 20:00
+Title 981,Text content 981,FakeNews,Author A,979,495,5,Real,2/10/2023 21:00
+Title 982,Text content 982,FakeNews,Author B,871,276,92,Real,2/10/2023 22:00
+Title 983,Text content 983,CNN,Author B,247,155,7,Real,2/10/2023 23:00
+Title 984,Text content 984,FakeNews,Author A,363,247,171,Fake,2/11/2023 0:00
+Title 985,Text content 985,BBC,Unknown,320,217,107,Real,2/11/2023 1:00
+Title 986,Text content 986,FakeNews,Author A,632,189,160,Real,2/11/2023 2:00
+Title 987,Text content 987,FakeNews,Author A,285,416,74,Real,2/11/2023 3:00
+Title 988,Text content 988,BBC,Unknown,148,468,76,Real,2/11/2023 4:00
+Title 989,Text content 989,FakeNews,Unknown,83,162,49,Real,2/11/2023 5:00
+Title 990,Text content 990,BBC,Author B,965,179,10,Real,2/11/2023 6:00
+Title 991,Text content 991,FakeNews,Unknown,405,33,94,Fake,2/11/2023 7:00
+Title 992,Text content 992,BBC,Author B,977,40,155,Fake,2/11/2023 8:00
+Title 993,Text content 993,FakeNews,Unknown,455,306,69,Real,2/11/2023 9:00
+Title 994,Text content 994,FakeNews,Author A,742,430,168,Fake,2/11/2023 10:00
+Title 995,Text content 995,CNN,Author B,799,337,15,Fake,2/11/2023 11:00
+Title 996,Text content 996,CNN,Author B,160,313,67,Real,2/11/2023 12:00
+Title 997,Text content 997,FakeNews,Author B,783,74,98,Fake,2/11/2023 13:00
+Title 998,Text content 998,FakeNews,Author A,459,440,47,Fake,2/11/2023 14:00
+Title 999,Text content 999,Fox,Author A,549,278,183,Fake,2/11/2023 15:00
