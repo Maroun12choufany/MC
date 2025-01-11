@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Night Club Menu</title>
+    <link rel="stylesheet" href="styles.css">
+    <Style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+:root {
+    --primary-color: #6a0dad;
+    --secondary-color: #ff6b6b;
+    --background-color: #1a1a2e;
+    --text-color: #ffffff;
+    --table-bg: rgba(255, 255, 255, 0.05);
+    --hover-color: rgba(255, 255, 255, 0.1);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    color: var(--secondary-color);
+    text-shadow: 0 0 10px rgba(255, 107, 107, 0.7);
+    animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from {
+        text-shadow: 0 0 5px rgba(255, 107, 107, 0.7);
+    }
+    to {
+        text-shadow: 0 0 20px rgba(255, 107, 107, 0.7);
+    }
+}
+
+.menu-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.menu-section {
+    flex: 1;
+    background: var(--table-bg);
+    border-radius: 10px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.menu-section:hover {
+    transform: translateY(-5px);
+}
+
+h2 {
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+}
+
+.menu-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+}
+
+.menu-table th,
+.menu-table td {
+    padding: 1rem;
+    text-align: left;
+}
+
+.menu-table th {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.menu-table tr {
+    background-color: var(--table-bg);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.menu-table tr:hover {
+    background-color: var(--hover-color);
+    transform: scale(1.02);
+}
+
+.menu-table td:first-child {
+    font-weight: 600;
+    color: var(--secondary-color);
+}
+
+@media (max-width: 768px) {
+    .menu-container {
+        flex-direction: column;
+    }
+}
+
+/* Add these new styles for the staggered animation */
+.menu-table tbody tr {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.5s ease forwards;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+    </Style>
+</head>
+<body>
+    <div class="container">
+        <h1>Midnight Lounge Menu</h1>
+        <div class="menu-container">
+            <div class="menu-section" id="drinks">
+                <h2>Drinks</h2>
+                <table class="menu-table">
+                    <thead>
+                        <tr>
+                            <th>Drink</th>
+                            <th>Description</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Neon Nights</td>
+                            <td>Vodka, blue curaçao, lemon juice, glowing ice</td>
+                            <td>$12</td>
+                        </tr>
+                        <tr>
+                            <td>Velvet Dream</td>
+                            <td>Whiskey, red vermouth, cherry liqueur</td>
+                            <td>$14</td>
+                        </tr>
+                        <tr>
+                            <td>Electric Fizz</td>
+                            <td>Gin, elderflower liqueur, prosecco, soda</td>
+                            <td>$13</td>
+                        </tr>
+                        <tr>
+                            <td>Midnight Mule</td>
+                            <td>Dark rum, ginger beer, lime juice</td>
+                            <td>$11</td>
+                        </tr>
+                        <tr>
+                            <td>Stardust Martini</td>
+                            <td>Vanilla vodka, passionfruit liqueur, edible glitter</td>
+                            <td>$15</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="menu-section" id="shisha">
+                <h2>Shisha</h2>
+                <table class="menu-table">
+                    <thead>
+                        <tr>
+                            <th>Flavor</th>
+                            <th>Description</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Midnight Breeze</td>
+                            <td>Cool mint with a hint of blueberry</td>
+                            <td>$25</td>
+                        </tr>
+                        <tr>
+                            <td>Tropical Paradise</td>
+                            <td>Mango, pineapple, and coconut blend</td>
+                            <td>$28</td>
+                        </tr>
+                        <tr>
+                            <td>Arabian Nights</td>
+                            <td>Rich double apple with a touch of cinnamon</td>
+                            <td>$26</td>
+                        </tr>
+                        <tr>
+                            <td>Berry Blast</td>
+                            <td>Mixed berries with a cooling effect</td>
+                            <td>$27</td>
+                        </tr>
+                        <tr>
+                            <td>Citrus Dream</td>
+                            <td>Lemon, lime, and orange fusion</td>
+                            <td>$26</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

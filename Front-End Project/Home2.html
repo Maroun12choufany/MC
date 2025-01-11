@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <style>
+               
+       
+                h2{
+                font-size: 46px;
+             }
+            
+             form.btn{
+                font-size: 18px;
+
+             }
+             p{
+                font-size: 20px;
+             }
+             :root {
+              --white-color:                  #ffffff;
+  --primary-color:                #BC6C25;
+  --secondary-color:              #DDA15E;
+  --section-bg-color:             #b78752;
+  --custom-btn-bg-color:          #BC6C25;
+  --custom-btn-bg-hover-color:    #DDA15E;
+  --dark-color:                   #000000;
+  --p-color:                      #717275;
+  --border-color:                 #7fffd4;
+  --link-hover-color:             #E76F51;
+
+  --body-font-family:             'Plus Jakarta Sans', sans-serif;
+
+  --h1-font-size:                 68px;
+  --h2-font-size:                 46px;
+  
+  --btn-font-size:                16px;
+  --form-btn-font-size:           18px;
+  
+
+  --border-radius-large:          100px;
+  --border-radius-medium:         20px;
+  --border-radius-small:          10px;
+
+  --font-weight-thin:             200;
+  --font-weight-light:            300;
+  --font-weight-normal:           400;
+  --font-weight-bold:             700;
+}
+     
+
+  
+
+ 
+
+body {
+  background-color: var(--white-color);
+  font-family: var(--body-font-family); 
+}
+
+
+/*---------------------------------------
+  TYPOGRAPHY               
+-----------------------------------------*/
+
+h2,
+
+
+h1,
+h2{
+
+  font-weight: var(--font-weight-bold);
+}
+
+h1 {
+  font-size: var(--h1-font-size);
+}
+
+h2 {
+  font-size: var(--h2-font-size);
+}
+
+
+
+p {
+  color: var(--p-color);
+  font-size: var(--p-font-size);
+  font-weight: var(--font-weight-light);
+}
+
+ul li {
+  color: var(--p-color);
+  font-size: var(--p-font-size);
+  font-weight: var(--font-weight-light);
+}
+
+a, 
+button {
+  touch-action: manipulation;
+  transition: all 0.3s;
+}
+
+a {
+  display: inline-block;
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link-hover-color);
+}
+
+b,
+strong {
+  font-weight: var(--font-weight-bold);
+}
+
+.timeline-container {
+  padding: 10px 40px;
+  padding-top: 0;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+.timeline-container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -12px;
+  background-color: var(--white-color);
+  border: 5px solid #7c5c52;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.timeline-container-left {
+  left: 0;
+}
+
+.timeline-container-right {
+  left: 50%;
+}
+
+.timeline-container-left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 9px;
+  width: 0;
+  z-index: 1;
+  right: 25px;
+  border: medium solid white;
+  border-width: 20px 0 20px 20px;
+  border-color: transparent transparent transparent white;
+}
+
+.timeline-container-right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 9px;
+  width: 0;
+  z-index: 1;
+  left: 25px;
+  border: medium solid white;
+  border-width: 20px 20px 20px 0;
+  border-color: transparent white transparent transparent;
+}
+
+.timeline-container-right::after {
+  left: -13px;
+}
+
+
+
+@media screen and (max-width: 991px) {
+  .timeline::after {
+    left: 31px;
+  }}
+
+  .timeline-container {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+
+  .timeline-container::before {
+    left: 58px;
+    border: medium solid white;
+    border-width: 20px 20px 20px 0;
+    border-color: transparent white transparent transparent;
+  }
+
+img{
+                position:absolute;
+                width:600px;
+                height:550px;
+                border:2px solid;
+                margin:7px;
+               
+                             top:100px;
+               left:800px;
+}
+
+            </style>
+            <section id="home">
+            
+                <div class="container">
+                    <div class="row align-items-center">
+    
+                        <div class="col-lg-6 col-12 mx-auto">
+                        </p>
+                            <em class="meduim-text">Welcome To Mousai</em>
+                            
+                            <h1>Mousai Night Club</h1>
+                            <p class="d-flex mb-1">
+                                <strong class="me-2">Phone:</strong>
+                                <a href="tel:76791361" class="site-footer-link">
+                                    (961)
+                                    76 791 361
+                                  
+                                            
+                                        </a>
+                                    </p>
+                                    
+                                </a>
+                            </p>
+    
+                           
+                            </p>
+                            <p class="d-flex">
+                              <strong class="me-2">Email:</strong>
+    
+                              <a href="mailto:info@yourgmail.com" class="site-footer-link">
+                                 info.mousaiclub@gmail.com
+                              </a>
+                          </p>
+                      </div>
+    
+    
+                      <div class="col-lg-5 col-12">
+                          <em class="text-white d-block mb-4">Opening Hours.</em>
+                          <p>
+    
+                          <ul class="opening-hours-list">
+                              <li class="d-flex">
+                                  Monday - Friday
+                                  <span class="underline"></span>
+    
+                                  <strong>9:00 PM - 2:00 AM</strong>
+                                  </p>
+                              </li>
+                              <p>
+    
+                              <li class="d-flex">
+                                  Saturday
+                                  <span class="underline"></span>
+    
+                                  <strong>12:00 AM - 5:00 AM</strong>
+                              </p>
+                              </li>
+                              <p>
+    
+                              <li class="d-flex">
+                                  Sunday
+                                  <span class="underline"></span>
+    
+                                  <strong>Closed</strong>
+                              </p>
+                              </li>
+                          </ul>
+                      </div>
+                      <img src="./asset/img/imgN.jpg">
+                </section>
+        </body>
+    </head>
+</html>

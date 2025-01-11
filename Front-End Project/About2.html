@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+               body{
+            font-family: Arial sans-serif;
+            margin:0;
+            padding:0;
+        }
+        h2{
+                font-size: 46px;
+             }
+            
+             form.btn{
+                font-size: 18px;
+
+             }
+             p{
+                font-size: 20px;
+             }
+             :root {
+  --white-color:                  #ffffff;
+  --primary-color:                #BC6C25;
+  --secondary-color:              #DDA15E;
+  --section-bg-color:             #b78752;
+  --custom-btn-bg-color:          #BC6C25;
+  --custom-btn-bg-hover-color:    #DDA15E;
+  --dark-color:                   #000000;
+  --p-color:                      #717275;
+  --border-color:                 #7fffd4;
+  --link-hover-color:             #E76F51;
+
+  --body-font-family:             'Plus Jakarta Sans', sans-serif;
+
+  --h1-font-size:                 68px;
+  --h2-font-size:                 46px;
+ 
+  --h4-font-size:                 28px;
+  
+  --p-font-size:                  20px;
+  --btn-font-size:                16px;
+  --form-btn-font-size:           18px;
+  --menu-font-size:               16px;
+
+  --border-radius-large:          100px;
+  --border-radius-medium:         20px;
+  --border-radius-small:          10px;
+
+  --font-weight-thin:             200;
+  --font-weight-light:            300;
+  --font-weight-normal:           400;
+  --font-weight-bold:             700;
+}
+     
+
+  
+
+ 
+
+body {
+  background-color: var(--white-color);
+  font-family: var(--body-font-family); 
+}
+
+
+/*---------------------------------------
+  TYPOGRAPHY               
+-----------------------------------------*/
+
+h2,
+h3,
+h4 {
+  color: var(--dark-color);
+}
+
+h1,
+h2,
+
+h4
+
+ {
+  font-weight: var(--font-weight-bold);
+}
+
+h1 {
+  font-size: var(--h1-font-size);
+}
+
+h2 {
+  font-size: var(--h2-font-size);
+}
+
+
+h4 {
+  font-size: var(--h4-font-size);
+}
+
+
+
+p {
+  color: var(--p-color);
+  font-size: var(--p-font-size);
+  font-weight: var(--font-weight-light);
+}
+
+
+/*---------------------------------------
+  SECTION               
+-----------------------------------------*/
+.section-padding {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-bg {
+  background-color: var(--section-bg-color);
+}
+
+.section-overlay {
+  background-color: var(--dark-color);
+  position: absolute;
+  z-index: 9;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  width: 100%;
+  height: 100%;
+  opacity: 0.65;
+}
+
+.section-overlay + .container {
+  position: relative;
+  z-index: 22;
+}
+
+
+
+
+
+
+
+/*---------------------------------------
+  TIMELINE               
+-----------------------------------------*/
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 5px;
+  background-color: var(--white-color);
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+.timeline-container {
+  padding: 10px 40px;
+  padding-top: 0;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+.timeline-container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -12px;
+  background-color: var(--white-color);
+  border: 5px solid #7c5c52;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.timeline-container-left {
+  left: 0;
+}
+
+.timeline-container-right {
+  left: 50%;
+}
+
+.timeline-container-left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 9px;
+  width: 0;
+  z-index: 1;
+  right: 25px;
+  border: medium solid white;
+  border-width: 20px 0 20px 20px;
+  border-color: transparent transparent transparent white;
+}
+
+.timeline-container-right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 9px;
+  width: 0;
+  z-index: 1;
+  left: 25px;
+  border: medium solid white;
+  border-width: 20px 20px 20px 0;
+  border-color: transparent white transparent transparent;
+}
+
+.timeline-container-right::after {
+  left: -13px;
+}
+
+.timeline-content {
+  padding: 5px;
+  background-color: var(--white-color);
+  position: relative;
+  border-radius: var(--border-radius-medium);
+}
+
+@media screen and (max-width: 991px) {
+  .timeline::after {
+    left: 31px;
+  }
+
+  .timeline-container {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+
+  .timeline-container::before {
+    left: 58px;
+    border: medium solid white;
+    border-width: 20px 20px 20px 0;
+    border-color: transparent white transparent transparent;
+  }
+
+  .timeline-container-left::after, .timeline-container-right::after {
+    left: 6px;
+  }
+
+  .timeline-container-right {
+    left: 0%;
+  }
+}
+
+.navbar .custom-btn {
+  padding: 10px 20px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  border-radius: var(--border-radius-large);
+  margin: 10px;
+  padding: 10px;
+}
+
+.navbar-nav .nav-link {
+  display: inline-block;
+  color: var(--white-color);
+  font-size: var(--menu-font-size);
+  font-weight: var(--font-weight-bold);
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.navbar-nav .nav-link.active, 
+.navbar-nav .nav-link:hover {
+  color: var(--secondary-color);
+}
+        </style>
+        <body>
+            <section id="About">
+                <h2> About Us </h2>
+                <p>
+                    <h2 class="mt-auto">We Started Since 2017</h2>
+    
+                    <h2>Best Night Club In South Lebanon.</h2>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-5 col-12 mt-4 mt-lg-0 mx-auto">
+            <em class="text-white">Mousai.mc</em>
+    
+            <h2 class="text-white mb-3">Mousai</h2>
+    
+            <p class="text-white">The Night Club had been in Rmeish for as long as anyone could remember, and it had become a beloved institution among the locals.</p>
+    
+            <p class="text-white">The Night Club was run by a friendly and hospitable friends, Mr.Choufany and Mr. Hajj</p>
+    
+            <a href="#Mousai-team" class="smoothscroll btn custom-btn custom-border-btn mt-3 mb-4">Meet Workers</a>
+        </div>
+    
+    </div>
+    </div>
+    </section>
+    
+    
+    <section class="club-section section-padding section-bg" id="Mousai-team">
+    <div class="container">
+    <div class="row justify-content-center">
+    
+        <div class="col-lg-12 col-12 text-center mb-4 pb-lg-2">
+            <em class="text-white">Creative Workers</em>
+            <p>
+              <h4> Georges </h4>
+              <h4> Charbel</h4>
+              <h4> Joseph </h4>
+              <h4> Dany </h4>
+            </p>
+    
+            <h2 class="text-white">Meet People</h2>
+        </div>
+    
+        <div class="col-lg-3 col-md-6 col-12 mb-4">
+            <div class="team-block-wrap">
+                <div class="team-block-info d-flex flex-column">
+                    <div class="d-flex mt-auto mb-3">
+                       
+                        <h2 class="text-white mb-0">Mario</h2>
+    
+                        <p class="badge ms-4"><em>Boss</em></p>
+                        <h2 class="text-white mb-0">Fadi</h2>
+    
+                        <p class="badge ms-4"><em>Boss</em></p>
+    
+                    </div>
+    
+                    
+                </div>
+                <div class="col-lg-3 col-md-6 col-12 mb-4">
+                    <div class="team-block-wrap">
+                        <div class="team-block-info d-flex flex-column">
+                            <div class="d-flex mt-auto mb-3">
+                                <h2 class="text-white mb-0">Tarek</h2>
+    
+                                <p class="badge ms-4"><em>Manager</em></p>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-12 mb-4">
+                                <div class="team-block-wrap">
+                                    <div class="team-block-info d-flex flex-column">
+                                        <div class="d-flex mt-auto mb-3">
+                                            <h2 class="text-white mb-0">Mike</h2>
+    
+                                            <p class="badge ms-4"><em>Senior</em></p>
+                                        </div>
+                                        <div class="col-lg-3 col-md-6 col-12">
+                                            <div class="team-block-wrap">
+                                                <div class="team-block-info d-flex flex-column">
+                                                    <div class="d-flex mt-auto mb-3">
+                                                        <h2 class="text-white mb-0">Wael</h2>
+            
+                                                        <p class="badge ms-4"><em>Bartender</em></p>
+                                                    </div>
+            
+                                                   
+                                                </div>
+                </p>
+            </section>
+        </body>
+    </head>
+</html>
